@@ -1,283 +1,279 @@
-# Monster Prom Helper — BepInEx (Ingame-Overlay)
+# Monster Prom Helper — BepInEx Plugins
 
-Ingame-Mod mit **Overlay** (Standard: **Insert**). Liest Event, beide Antworten und Stats **direkt aus dem Spiel** — ohne OCR und ohne RAM-Raten.
+Ingame-Hilfsmods für die **Monster-Prom-Reihe** (Beautiful Glitch). Die Plugins lesen Dialoge, Stats und Events **direkt aus dem Spiel** — ohne OCR und ohne manuelles RAM-Raten.
 
-## Was das Plugin kann
+> **Unofficial fan project.** Nicht von Beautiful Glitch. Nutzung auf eigenes Risiko; Mods können Achievements oder Online-Features beeinflussen.
 
-- **Insert** — Overlay ein-/ausblenden (umkonfigurierbar in `BepInEx/config/com.monsterprom.helper.ingame.cfg`)
-- Zeigt **aktuelles Event** (`EventManager`, exakter Name wie im Log)
-- Zeigt **beide Antwort-Texte** aus dem UI
-- **★ Empfehlung** aus Spiel-Logik (`StatRequired_Option1/2` vs. deine Stats)
-- Zusätzlich **Datenbank-Empfehlung** aus `events_db.json` (Hints, Routen)
-- Warnung bei **Secret-Ending-Events** (`secret_endings.json`)
+Repository: [github.com/Fussmatte111/MonsterPromHelper](https://github.com/Fussmatte111/MonsterPromHelper)
+
+Übersicht über das gesamte Repo (Python Log-Watcher + Overlay): [**README.md**](../README.md) im Root.
+
+---
+
+## Unterstützte Spiele
+
+| Spiel | Plugin-Ordner | Build-Skript | Standard-EXE |
+|-------|----------------|--------------|--------------|
+| **Monster Prom** (1) | `MonsterPromHelper` | `build.ps1` | `MonsterProm.exe` |
+| **Monster Prom 2: Monster Camp** | `MonsterCampHelper` | `build-camp.ps1` | `MonsterCamp.exe` |
+| **Monster Prom 4: Monster Con** | `MonsterProm4Helper` | `build-mp4.ps1` | `MonsterCon.exe` |
+
+Jedes Spiel braucht **eigenes BepInEx** im jeweiligen Installationsordner. Die Plugins sind **nicht** untereinander austauschbar.
+
+---
+
+## Features
+
+| Feature | Beschreibung |
+|---------|--------------|
+| **Overlay (F8 / F9)** | Event-Name, Antwort-Texte, Stat-Empfehlung, optional Stats-/Love-Editor |
+| **Pick-Hint** | Kleines Popup während Dialogen: empfohlene Option nach deinen Stats (ohne Overlay) |
+| **Secret-Toasts** | Hinweis, wenn ein Secret-Ending-Event erkannt wird |
+| **Event-Datenbank** | Abgleich per Antwort-Texte + interne Event-Namen (`events_db.json`) |
+| **Drink-Info** *(nur Camp)* | **Strg + Linksklick** auf Drink → Effekt aus `drinks_db.json` |
+
+---
 
 ## Voraussetzungen
 
-- **Monster Prom** (Steam, Windows)
-- **.NET SDK** zum Bauen des Plugins ([dotnet.microsoft.com](https://dotnet.microsoft.com/download)) — nur wenn du selbst kompilierst
-- **BepInEx 5** für Unity Mono — bei Monster Prom (Steam) fast immer **32-bit**
+- **Windows**, Spiel über Steam
+- **BepInEx 5.4** für Unity Mono — bei allen drei Spielen in der Praxis **32-bit (x86)**
+- **.NET SDK** — nur wenn du die Plugins selbst kompilierst ([dotnet.microsoft.com](https://dotnet.microsoft.com/download))
 
-## Wichtig: Nur `BepInEx/core` ist normal (vor dem ersten erfolgreichen Start)
+### BepInEx korrekt installiert?
 
-Frisch entpackt enthält das BepInEx-ZIP oft **nur** den Ordner `BepInEx\core\` (plus `winhttp.dll` im Spielroot).  
-**Erst wenn BepInEx beim Spielstart wirklich lädt**, erscheinen zusätzlich:
+Nach dem **ersten Spielstart** sollten existieren:
 
-- `BepInEx\LogOutput.log`
-- `BepInEx\config\`
-- `BepInEx\cache\`
-- `BepInEx\plugins\` (Mods kommen hier rein)
+- `BepInEx/LogOutput.log`
+- `BepInEx/config/`
+- `BepInEx/plugins/`
 
-Bleibt nach dem Starten **nur** `core` und es gibt **kein** `LogOutput.log` → BepInEx wurde **nicht** geladen (häufig: **falsche Architektur x64 statt x86**).
+Wenn nur `BepInEx/core/` da ist und kein Log entsteht → meist **falsches BepInEx (x64 statt x86)** oder blockierte `winhttp.dll`.
 
-## Installation (Schritt für Schritt)
+---
 
-### 1. BepInEx + Plugin automatisch (empfohlen)
+## Schnellinstallation
 
-PowerShell **als Administrator** (wegen Program Files):
+### Option A — Fertiges Paket (ohne Build)
+
+1. [BepInEx x86](https://github.com/BepInEx/BepInEx/releases) in den **Spielordner** entpacken.
+2. Spiel einmal starten und wieder schließen.
+3. Inhalt des passenden `install-pack-*`-Ordners in denselben Spielordner kopieren (Ordner mergen):
+
+| Spiel | Paket |
+|-------|--------|
+| Monster Prom | `install-pack/` |
+| Monster Camp | `install-pack-camp/` |
+| Monster Con | `install-pack-mp4/` |
+
+4. Spiel starten. In `BepInEx/LogOutput.log` sollte z. B. stehen: `Helper v… — Plugin loaded`.
+
+### Option B — Automatisch (nur Monster Prom 1)
+
+PowerShell **als Administrator** (bei Installation unter `Program Files`):
 
 ```powershell
-cd "C:\Users\matti\Downloads\MonsterPromHelper\bepinex-plugin"
+cd path\to\MonsterPromHelper\bepinex-plugin
 .\install-bepinex.ps1
 ```
 
-Das Skript erkennt **32- vs. 64-bit**, lädt das passende BepInEx-ZIP, kopiert alles ins Spiel und legt das Helper-Plugin unter `BepInEx\plugins\MonsterPromHelper\` ab.
+Lädt BepInEx, erkennt 32/64-bit und deployt das MP1-Plugin.
 
-### 1b. BepInEx manuell
-
-1. Monster Prom liegt bei Steam meist hier:  
-   `C:\Program Files (x86)\Steam\steamapps\common\Monster Prom\`  
-   Start-EXE: **`MonsterProm.exe`** (32-bit).
-2. **Nicht** `BepInEx_win_x64` — für Monster Prom (Steam):  
-   **`BepInEx_win_x86_5.4.23.5.zip`** von [BepInEx Releases](https://github.com/BepInEx/BepInEx/releases)
-3. ZIP **komplett** in den Spielordner entpacken (`winhttp.dll`, `doorstop_config.ini`, `BepInEx\core\`).
-4. **`MonsterProm.exe` starten** (einmal durchspielen bis Menü reicht), dann schließen.
-5. Prüfen: `BepInEx\LogOutput.log` enthält z. B. `Overlay bereit — Insert oder F8`.
-6. Plugin muss hier liegen (nicht doppelt verschachtelt):  
-   `BepInEx\plugins\MonsterPromHelper\MonsterPromHelper.Ingame.dll`  
-   Falsch: `BepInEx\plugins\BepInEx\plugins\...` → `.\fix-plugin-path.ps1`
-
-> **Hinweis:** Mods kann Steam bei Achievements beeinflussen — üblich für Offline/Singleplayer, aber du entscheidest selbst.
-
-### 2. Plugin bauen (oder fertiges Paket nutzen)
-
-PowerShell im Repo:
+### Option C — Aus Quellcode bauen
 
 ```powershell
-cd "C:\Users\matti\Downloads\MonsterPromHelper\bepinex-plugin"
+cd path\to\MonsterPromHelper\bepinex-plugin
+
+# Monster Prom 1
 .\build.ps1
+
+# Monster Camp
+.\build-camp.ps1
+
+# Monster Prom 4
+.\build-mp4.ps1
 ```
 
-Anderer Spielordner:
+Anderen Spielordner angeben:
 
 ```powershell
-$env:MONSTER_PROM_DIR = "D:\Steam\steamapps\common\Monster Prom"
+$env:MONSTER_PROM_DIR = "D:\SteamLibrary\steamapps\common\Monster Prom"
 .\build.ps1
+
+$env:MONSTER_CAMP_DIR = "D:\SteamLibrary\steamapps\common\Monster Prom 2 - Monster Camp"
+.\build-camp.ps1
+
+$env:MONSTER_CON_DIR = "D:\SteamLibrary\steamapps\common\Monster Prom 4 - Monster Con"
+.\build-mp4.ps1
 ```
 
-Das Skript erzeugt:
+Danach den Inhalt von `install-pack*` in den Spielordner kopieren.
 
-- `dist\MonsterPromHelper.Ingame.dll`
-- `install-pack\` — fertige Ordnerstruktur zum Kopieren
+**Build-Fehler?** BepInEx muss im Spielordner liegen (`BepInEx/core/BepInEx.dll`), oder das Skript lädt BepInEx nach `lib/` für den Compiler.
 
-**Build-Fehler „BepInEx nicht gefunden“?**  
-Zuerst Schritt 1 abschließen (BepInEx muss im Spielordner unter `BepInEx\core\BepInEx.dll` liegen), dann `build.ps1` erneut ausführen.
+---
 
-### 3. Plugin ins Spiel kopieren
-
-Alles aus `install-pack\` in den **Monster-Prom-Ordner** kopieren (Ordner mergen), sodass es so aussieht:
-
-```
-Monster Prom\
-  BepInEx\
-    plugins\
-      MonsterPromHelper\
-        MonsterPromHelper.Ingame.dll
-        data\
-          events_db.json
-          secret_endings.json
-```
-
-Die JSON-Dateien kommen aus dem Hauptprojekt (`MonsterPromHelper\data\`). Nach Updates am Helper: `build.ps1` erneut ausführen oder nur `data\` neu kopieren.
-
-### 4. Spielen
-
-1. Monster Prom starten.
-2. In `BepInEx\LogOutput.log` sollte stehen: `Monster Prom Helper (Ingame) v1.0.0` / Plugin loaded.
-3. Runde starten, bei einem Dialog mit zwei Antworten: **Insert** drücken.
-
-## Steuerung & Config
+## Steuerung & Konfiguration
 
 | Taste (Standard) | Aktion |
 |------------------|--------|
-| **Insert** | Overlay ein / aus |
+| **F8** | Overlay ein / aus |
+| **F9** | Overlay ein / aus (Alternative) |
+| **Strg + Linksklick** *(Camp)* | Drink-Effekt anzeigen |
 
-Config-Datei (nach erstem Start):
+Config-Dateien (nach erstem Start unter `BepInEx/config/`):
 
-`BepInEx\config\com.monsterprom.helper.ingame.cfg`
+| Spiel | Config |
+|-------|--------|
+| Monster Prom | `com.monsterprom.helper.ingame.cfg` |
+| Monster Camp | `com.monstercamp.helper.ingame.cfg` |
+| Monster Con | `com.monsterprom4.helper.ingame.cfg` |
+
+Wichtige Optionen:
 
 ```ini
 [Overlay]
+ToggleKey = F8
+ToggleKeyAlt = F9
 
-## Taste zum Ein-/Ausblenden des Overlays
-ToggleKey = Insert
-
-## Overlay auch anzeigen wenn kein Event aktiv ist
-ShowWhenNoEvent = false
+[Alerts]
+PickHint = true
+SecretEndingToast = true
+SecretEndingFirstOnly = true
+DrinkInfo = true          ; nur Monster Camp
 ```
 
-## Vergleich: Python-Overlay vs. BepInEx
+---
 
-| | Python (`start_overlay.bat`) | BepInEx (dieser Ordner) |
-|--|------------------------------|-------------------------|
-| Installation | Python + pip | BepInEx + DLL kopieren |
-| Event erkennen | OCR / RAM / Suche | **Direkt aus dem Spiel** |
-| Stats | Manuell / Memory-Scan | **Automatisch live** |
-| Secret-Toasts | Ja (Log-Watcher) | Nur im Overlay (Secret-Hinweis) |
+## Pro Spiel
 
-Du kannst **beides** parallel nutzen: BepInEx im Spiel, Python-Agent für Hintergrund-Toasts aus dem Log.
+### Monster Prom (1) — v1.7.2
+
+- **Szene:** `InGame_School`
+- **Mechanik:** Zwei Stats pro Event; Spiel wählt die höhere Stat-Option
+- **Daten:** ~430 Events in `data/events_db.json`, Secret-Routen in `secret_endings.json`
+- **LIs:** Damien, Liam, Miranda, Polly, Scott, Vera, Calculester, Zoe
+- **Stats:** SMARTS, BOLD, CREATIVE, CHARM, FUN, MONEY
+
+```
+Monster Prom/
+  BepInEx/plugins/MonsterPromHelper/
+    MonsterPromHelper.Ingame.dll
+    data/events_db.json
+    data/secret_endings.json
+```
+
+### Monster Prom 2: Monster Camp — v1.0.1
+
+- **Szene:** `MainGame`
+- **Mechanik:** wie MP1 (Stat-Vergleich pro Option)
+- **Daten:** [Community-Spreadsheet](https://docs.google.com/spreadsheets/d/1dvqS63ssINhneJGm9hi3V2tGTm5kF1utv1cl8cdtfJ0/edit) → ~270 Events, 63 Drinks, Secret-Events
+- **LIs:** Damien, Calculester, Milo, Dahlia, Joy, Aaravi
+- **Extra:** Drink-Infos per Strg+Klick in der Drink-Auswahl
+
+```
+Monster Prom 2 - Monster Camp/
+  BepInEx/plugins/MonsterCampHelper/
+    MonsterCampHelper.Ingame.dll
+    data/events_db.json
+    data/drinks_db.json
+    data/secret_endings.json
+```
+
+Datenbank beim Build aktualisieren: `python tools/build_camp_db.py` (Internet nötig für Google Sheet).
+
+### Monster Prom 4: Monster Con — v1.3.1
+
+- **Szene:** `MainGame`, Prolog unterstützt
+- **Mechanik:** **Stat-Austausch** (+STAT / −STAT pro Option, nicht reiner Höchstwert)
+- **Daten:** Events aus [Steam Event Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3470379401), Pregame aus [Wiki](https://monsterprom.wiki.gg/wiki/Pre-Game_Preparation/Monster_Con)
+- **LIs:** Liam, Zoe, Omen, Doug, Nico, April
+- **Extra:** Badges an Choice-Boxen im Dialog; NGUI-Overlay
+
+```
+Monster Prom 4 - Monster Con/
+  BepInEx/plugins/MonsterProm4Helper/
+    MonsterProm4Helper.Ingame.dll
+    data/events_db.json
+    data/pregame_db.json
+    data/secret_endings.json
+```
+
+---
+
+## Vergleich der Plugins
+
+| | MP1 | Monster Camp | MP4 (Con) |
+|--|-----|--------------|-----------|
+| GUID | `com.monsterprom.helper.ingame` | `com.monstercamp.helper.ingame` | `com.monsterprom4.helper.ingame` |
+| Stat-Logik | Höherer Stat gewinnt | Höherer Stat gewinnt | +/- Stat-Austausch |
+| MONEY-Stat | Ja | Nein | Nein |
+| Drink-Info | — | Ja | — |
+| Pregame-Hints | — | — | Ja |
+
+---
 
 ## Ordnerstruktur
 
 ```
 bepinex-plugin/
-  README.md                 ← diese Anleitung
-  build.ps1                 ← baut DLL + install-pack
-  MonsterPromHelper.Ingame/ ← Plugin-Quellcode (C#)
-  dist/                     ← gebaute DLL (nach build)
-  install-pack/             ← zum Kopieren ins Spiel (nach build)
-  lib/                      ← optional: BepInEx.dll für Build-Kopie
+  README.md
+  build.ps1 / build-camp.ps1 / build-mp4.ps1
+  install-bepinex.ps1          # MP1 Auto-Install
+  fix-plugin-path.ps1          # Doppelte Plugin-Pfade bereinigen
+  fix-double-plugin.ps1        # Zwei DLL-Instanzen entfernen
+  MonsterPromHelper.Ingame/    # MP1 Quellcode
+  MonsterCampHelper.Ingame/    # Camp Quellcode
+  MonsterProm4Helper.Ingame/   # MP4 Quellcode
+  install-pack/                # MP1 Deploy-Paket
+  install-pack-camp/
+  install-pack-mp4/
+  lib/                         # BepInEx.dll für Build (optional)
 ```
+
+Event-Daten liegen im Repo unter `data/`, `data-camp/` und `data-mp4/` und werden beim Build in die Install-Pakete kopiert.
+
+---
 
 ## Fehlerbehebung
 
 | Problem | Lösung |
 |---------|--------|
-| Nach Start nur `BepInEx/core`, kein `LogOutput.log` | **x86-BepInEx** installieren (Monster Prom ist 32-bit), nicht x64 — `.\install-bepinex.ps1` |
-| Spiel startet nicht / kein BepInEx-Log | `winhttp.dll` + `doorstop_config.ini` im gleichen Ordner wie `MonsterProm.exe`; ggf. Windows „Zulassen“ / Antivirus-Ausnahme |
-| Plugin lädt nicht | `MonsterPromHelper.Ingame.dll` unter `BepInEx\plugins\MonsterPromHelper\`? |
-| „0 Events“ im Log | `data\events_db.json` fehlt — `build.ps1` oder `data\` manuell kopieren |
-| Log: AN und sofort AUS | Meist **zwei Plugin-DLLs** — `.\fix-double-plugin.ps1` ausführen, Spiel neu starten |
-| Overlay unsichtbar (Log: AN) | Ab v1.1.4: Log braucht `Overlay-Text:` + `Overlay gezeichnet (IMGUI)` — sonst alte DLL oder Fehlerzeile |
-| `MissingMethodException` (IReadOnly*, IsNullOrWhiteSpace, Array.Empty) | Unity = **CLR 2.0** — Plugin ≥ **1.1.4** installieren (Spiel beenden, DLL kopieren) |
-| Overlay leer / nur Rahmen | Footer muss „Datenbank: 433 Events“ zeigen; sonst `data/events_db.json` kopieren |
-| Mausklick tut nichts | Nur **F8** oder **F9** (Insert verursacht oft doppeltes AN/AUS) |
-| Secret-Ending Toast | Ab **v1.4.2**: nur bei **aktivem Dialog** + **beiden** Antworten passend zu einem Secret-Event aus `secret_endings.json` (kein Zufalls-Match mehr). Config: `Alerts.SecretEndingToast` |
-| Pick-Hint (ohne F8) | Ab **v1.5.0**: gruenes Popup **unten rechts** waehrend Dialogen (`EMPFOHLEN: Option X`). Config: `Alerts.PickHint` |
-| Stats / Zuneigung ändern | Ab **v1.4.0**: im Overlay (F8) nach unten scrollen — Stats, **Love** und **Interest** pro LI (Damien, Liam, …), `Set` oder +/- |
-| Overlay leer bei Dialog | Warte bis **beide Antwort-Buttons** sichtbar sind; Stats-Zeile muss Werte zeigen |
-| Build: Assembly-CSharp fehlt | `MONSTER_PROM_DIR` auf installiertes Monster Prom setzen |
+| Kein `LogOutput.log` | BepInEx **x86** installieren; `winhttp.dll` neben der `.exe` |
+| Plugin lädt nicht | DLL direkt unter `BepInEx/plugins/<PluginName>/`, nicht doppelt verschachtelt → `fix-plugin-path.ps1` |
+| Overlay flackert AN/AUS | Zwei Plugin-Kopien → `fix-double-plugin.ps1`, Spiel neu starten |
+| „0 Events“ / leeres Overlay | `data/events_db.json` fehlt → Build erneut oder `data/` kopieren |
+| Pick-Hint erscheint nicht | In aktiver Runde spielen; Dialog mit zwei sichtbaren Antworten; `Alerts.PickHint = true` |
+| Camp: Drink-Info fehlt | Log: `Drink-Hooks aktiv (2).` — sonst v1.0.1+ installieren |
+| Build: Assembly-CSharp fehlt | Umgebungsvariable `MONSTER_*_DIR` auf installiertes Spiel setzen |
+| Achievements | Mods können Steam-Achievements beeinflussen — Offline/Singleplayer üblich |
+
+Logs prüfen: `BepInEx/LogOutput.log` und `%LOCALAPPDATA%/../LocalLow/Beautiful Glitch/<Spielname>/Player.log`.
+
+---
+
+## Python-Hintergrund-Agent (optional)
+
+Zusätzlich gibt es im Repo-Root einen **Log-Watcher** mit Windows-Toasts und ein **Desktop-Overlay** mit OCR:
+
+- `start.bat` / `start.ps1` — Toasts aus dem Unity-Log
+- `start_overlay.bat` — separates Overlay-Fenster
+
+BepInEx und Python können parallel laufen. Details: [**README.md**](../README.md)
+
+---
 
 ## Entwicklung
 
-- GUID: `com.monsterprom.helper.ingame`
-- Liest `EventManager.Instance`, `StatsManager.GetStatInt`, `GameManager.CurrentPlayerColor`
-- UI: Unity **IMGUI** (`OnGUI`), kein separates Fenster außerhalb des Spiels
+- **Sprache:** C# (.NET Framework 4.7.2), Harmony, Unity IMGUI / NGUI
+- **Runtime:** Unity Mono (CLR 2.0) — kein modernes C# in Hot Paths
+- **Reflection:** Spiel-APIs sind teils non-public; `GameBridge` liest Runtime-State
+
+Pull Requests und Issues willkommen: [github.com/Fussmatte111/MonsterPromHelper/issues](https://github.com/Fussmatte111/MonsterPromHelper/issues)
 
 ---
 
-## Monster Prom 4 (Monster Con)
+## Danksagungen
 
-Separates Plugin für **Monster Prom 4: Monster Con** — gleiches Overlay-Konzept, angepasst an MP4-Mechanik (**Stat-Austausch**: Option zeigt `+CREATIVE / -SMARTS`).
-
-### Build
-
-```powershell
-cd "C:\Users\matti\Downloads\MonsterPromHelper\bepinex-plugin"
-.\build-mp4.ps1
-```
-
-Anderer Spielordner:
-
-```powershell
-$env:MONSTER_CON_DIR = "D:\Steam\steamapps\common\Monster Prom 4 - Monster Con"
-.\build-mp4.ps1
-```
-
-Standard-Pfad: `C:\Program Files (x86)\Steam\steamapps\common\Monster Prom 4 - Monster Con\`  
-Start-EXE: **`MonsterCon.exe`** (32-bit, x86-BepInEx).
-
-### Installation
-
-Inhalt von `install-pack-mp4\` in den MP4-Ordner kopieren:
-
-```
-Monster Prom 4 - Monster Con\
-  BepInEx\
-    plugins\
-      MonsterProm4Helper\
-        MonsterProm4Helper.Ingame.dll
-        data\
-          events_db.json
-          pregame_db.json
-          secret_endings.json
-```
-
-### MP4 vs MP1
-
-| | MP1 Helper | MP4 Helper |
-|--|-----------|------------|
-| DLL | `MonsterPromHelper.Ingame.dll` | `MonsterProm4Helper.Ingame.dll` |
-| GUID | `com.monsterprom.helper.ingame` | `com.monsterprom4.helper.ingame` |
-| Szene | `InGame_School` | `MainGame` |
-| Event-Infos | DB + StatRequired | **Live Stat-Austausch** (+/- pro Option) |
-| LIs | Damien, Liam, … | Liam, Zoe, Omen, Doug, Nico, April |
-| Stats | inkl. MONEY | SMARTS, BOLD, CREATIVE, CHARM, FUN |
-| Interest-Editor | Love + Interest | nur **Love** (Dates-Zähler nur Anzeige) |
-
-### Steuerung
-
-- **F8** / **F9** — Overlay (wie MP1)
-- Pick-Hint unten rechts während Dialogen
-- Stats-Editor im Overlay (scrollen nach unten)
-
-`events_db.json` (87 Events aus dem [Steam Event Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3470379401)) und `pregame_db.json` (Stat-Picks + LI-Anforderungen) liegen unter `data-mp4/` und werden beim Build kopiert. MP1 nutzt weiterhin `data/events_db.json` (~433 Events). Secret-Toasts nutzen `secret_endings.json` (derzeit leer).
-
----
-
-## Monster Camp Helper (Monster Prom 2)
-
-Separates Plugin für **Monster Prom 2: Monster Camp** — Event-Empfehlungen wie MP1, Daten aus der [Community-Spreadsheet](https://docs.google.com/spreadsheets/d/1dvqS63ssINhneJGm9hi3V2tGTm5kF1utv1cl8cdtfJ0/edit).
-
-### Build
-
-```powershell
-cd "C:\Users\matti\Downloads\MonsterPromHelper\bepinex-plugin"
-.\build-camp.ps1
-```
-
-Anderer Spielordner:
-
-```powershell
-$env:MONSTER_CAMP_DIR = "D:\SteamLibrary\steamapps\common\Monster Prom 2 - Monster Camp"
-.\build-camp.ps1
-```
-
-Standard-Pfad: `C:\Program Files (x86)\Steam\steamapps\common\Monster Prom 2 - Monster Camp\`  
-Start-EXE: **`MonsterCamp.exe`** (32-bit, x86-BepInEx).
-
-### Installation
-
-Inhalt von `install-pack-camp\` in den Camp-Ordner kopieren (nach BepInEx-Installation):
-
-```
-Monster Prom 2 - Monster Camp\
-  BepInEx\
-    plugins\
-      MonsterCampHelper\
-        MonsterCampHelper.Ingame.dll
-        data\
-          events_db.json      (~270 Events)
-          drinks_db.json      (63 Drinks)
-          secret_endings.json
-```
-
-### Features
-
-- **F8** / **F9** — Overlay mit Stats, Love, Event-Empfehlung
-- **Pick-Hint** — kleines Popup bei Dialogen: empfohlene Option nach deinen Stats (ohne F8)
-- **Secret-Toasts** — Hinweis bei Secret-Ending-Events
-- **Ctrl + Linksklick auf Drink** — zeigt Effekt aus `drinks_db.json` (Juan-Drinks / Drink-Auswahl)
-
-Daten werden beim Build aus dem Google Sheet geladen (`tools/build_camp_db.py` → `data-camp/`).
-
-Config: `BepInEx/config/com.monstercamp.helper.ingame.cfg` (`PickHint`, `DrinkInfo`, `SecretEndingToast`, …).
+- Event-Daten: Community-Guides, [Monster Prom Wiki](https://monsterprom.wiki.gg/), [Camp Spreadsheet](https://docs.google.com/spreadsheets/d/1dvqS63ssINhneJGm9hi3V2tGTm5kF1utv1cl8cdtfJ0/edit)
+- [BepInEx](https://github.com/BepInEx/BepInEx) — Modding-Framework
