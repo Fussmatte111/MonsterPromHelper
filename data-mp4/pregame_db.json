@@ -1,0 +1,734 @@
+{
+  "source": "https://monsterprom.wiki.gg/wiki/Pre-Game_Preparation/Monster_Con",
+  "likes": {
+    "anime_eyes": {
+      "label": "Anime Eyes",
+      "stat": "CHARM",
+      "characters": [
+        "April"
+      ],
+      "hint": "Anime Eyes"
+    },
+    "ddr_as_exercise": {
+      "label": "DDR as exercise",
+      "stat": "CREATIVE",
+      "characters": [
+        "April"
+      ],
+      "hint": "DDR as exercise"
+    },
+    "idol_choreographies": {
+      "label": "Idol Choreographies",
+      "stat": "CREATIVE",
+      "characters": [
+        "April"
+      ],
+      "hint": "Idol Choreographies"
+    },
+    "kawaii_cereal_mascots": {
+      "label": "Kawaii Cereal Mascots",
+      "stat": "CHARM",
+      "characters": [
+        "April"
+      ],
+      "hint": "Kawaii Cereal Mascots"
+    },
+    "owning_you_re_a_clown": {
+      "label": "Owning You're a Clown",
+      "stat": "FUN",
+      "characters": [
+        "April"
+      ],
+      "hint": "Owning You're a Clown"
+    },
+    "dad_joke_t_shirts": {
+      "label": "Dad Joke T-Shirts",
+      "stat": "FUN",
+      "characters": [
+        "Doug"
+      ],
+      "hint": "Dad Joke T-Shirts"
+    },
+    "endless_merchandise": {
+      "label": "Endless Merchandise",
+      "stat": "CHARM",
+      "characters": [
+        "Doug"
+      ],
+      "hint": "Endless Merchandise"
+    },
+    "hugs": {
+      "label": "Hugs",
+      "stat": "CHARM",
+      "characters": [
+        "Doug"
+      ],
+      "hint": "Hugs"
+    },
+    "non_ironic_hawaiian_t_shirts": {
+      "label": "Non-ironic Hawaiian T-Shirts",
+      "stat": "CHARM",
+      "characters": [
+        "Doug"
+      ],
+      "hint": "Non-ironic Hawaiian T-Shirts"
+    },
+    "correcting_other_people": {
+      "label": "Correcting Other People",
+      "stat": "SMARTS",
+      "characters": [
+        "Liam"
+      ],
+      "hint": "Correcting Other People"
+    },
+    "hyper_complex_eurogames": {
+      "label": "Hyper-Complex Eurogames",
+      "stat": "SMARTS",
+      "characters": [
+        "Liam"
+      ],
+      "hint": "Hyper-Complex Eurogames"
+    },
+    "iambic_pentameters": {
+      "label": "Iambic Pentameters",
+      "stat": "SMARTS",
+      "characters": [
+        "Liam"
+      ],
+      "hint": "Iambic Pentameters"
+    },
+    "playing_5d_chess": {
+      "label": "Playing 5D Chess",
+      "stat": "SMARTS",
+      "characters": [
+        "Liam"
+      ],
+      "hint": "Playing 5D Chess"
+    },
+    "stupidly_specific_panels": {
+      "label": "Stupidly Specific Panels",
+      "stat": "SMARTS",
+      "characters": [
+        "Liam"
+      ],
+      "hint": "Stupidly Specific Panels"
+    },
+    "anime_monologues": {
+      "label": "Anime Monologues",
+      "stat": "CHARM",
+      "characters": [
+        "Nico"
+      ],
+      "hint": "Anime Monologues"
+    },
+    "drama": {
+      "label": "Drama",
+      "stat": "CREATIVE",
+      "characters": [
+        "Nico"
+      ],
+      "hint": "Drama"
+    },
+    "main_character_syndrome": {
+      "label": "Main Character Syndrome",
+      "stat": "CREATIVE",
+      "characters": [
+        "Nico"
+      ],
+      "hint": "Main Character Syndrome"
+    },
+    "searching_for_loot_in_rpgs": {
+      "label": "Searching for Loot in RPGs",
+      "stat": "FUN",
+      "characters": [
+        "Nico"
+      ],
+      "hint": "Searching for Loot in RPGs"
+    },
+    "step_on_me": {
+      "label": "Step on me",
+      "stat": "FUN",
+      "characters": [
+        "Omen"
+      ],
+      "hint": "Step on me"
+    },
+    "licking_metal": {
+      "label": "Licking Metal",
+      "stat": "FUN",
+      "characters": [
+        "Omen"
+      ],
+      "hint": "Licking Metal"
+    },
+    "stabbing": {
+      "label": "Stabbing",
+      "stat": "BOLD",
+      "characters": [
+        "Omen"
+      ],
+      "hint": "Stabbing"
+    },
+    "well_earned_redemption_arcs": {
+      "label": "Well-earned Redemption Arcs",
+      "stat": "CHARM",
+      "characters": [
+        "Omen"
+      ],
+      "hint": "Well-earned Redemption Arcs"
+    },
+    "world_domination": {
+      "label": "World Domination",
+      "stat": "BOLD",
+      "characters": [
+        "Omen"
+      ],
+      "hint": "World Domination"
+    },
+    "garfield_x_naruto": {
+      "label": "Garfield x Naruto",
+      "stat": "FUN",
+      "characters": [
+        "Zoe"
+      ],
+      "hint": "Garfield x Naruto"
+    },
+    "only_one_bed": {
+      "label": "Only One Bed",
+      "stat": "FUN",
+      "characters": [
+        "Zoe"
+      ],
+      "hint": "Only One Bed"
+    },
+    "weird_reality_shows": {
+      "label": "Weird Reality Shows",
+      "stat": "FUN",
+      "characters": [
+        "Zoe"
+      ],
+      "hint": "Weird Reality Shows"
+    },
+    "anime_fashion": {
+      "label": "Anime Fashion",
+      "stat": "CHARM",
+      "characters": [
+        "April",
+        "Nico"
+      ],
+      "hint": "Anime Fashion"
+    },
+    "anime_opening_playlists": {
+      "label": "Anime Opening Playlists",
+      "stat": "CREATIVE",
+      "characters": [
+        "April",
+        "Nico"
+      ],
+      "hint": "Anime Opening Playlists"
+    },
+    "balloon_based_sculptures": {
+      "label": "Balloon-based Sculptures",
+      "stat": "CREATIVE",
+      "characters": [
+        "April",
+        "Liam"
+      ],
+      "hint": "Balloon-based Sculptures"
+    },
+    "both_headcanons_and_headcannons": {
+      "label": "Both Headcanons and Headcannons",
+      "stat": "BOLD",
+      "characters": [
+        "Omen",
+        "Zoe"
+      ],
+      "hint": "Both Headcanons and Headcannons"
+    },
+    "collecting_katanas": {
+      "label": "Collecting Katanas",
+      "stat": "BOLD",
+      "characters": [
+        "Doug",
+        "Nico",
+        "Omen"
+      ],
+      "hint": "Collecting Katanas"
+    },
+    "comics_where_the_hero_always_wins": {
+      "label": "Comics where the hero always wins",
+      "stat": "FUN",
+      "characters": [
+        "Doug",
+        "Nico"
+      ],
+      "hint": "Comics where the hero always wins"
+    },
+    "cosplay_as_foreplay": {
+      "label": "Cosplay as Foreplay",
+      "stat": "FUN",
+      "characters": [
+        "Nico",
+        "Zoe"
+      ],
+      "hint": "Cosplay as Foreplay"
+    },
+    "dakimakuras_against_loneliness": {
+      "label": "Dakimakuras Against Loneliness",
+      "stat": "CHARM",
+      "characters": [
+        "Doug",
+        "Zoe"
+      ],
+      "hint": "Dakimakuras Against Loneliness"
+    },
+    "documentaries_with_jumpscares": {
+      "label": "Documentaries with Jumpscares",
+      "stat": "SMARTS",
+      "characters": [
+        "Liam",
+        "Omen"
+      ],
+      "hint": "Documentaries with Jumpscares"
+    },
+    "drunken_karaoke": {
+      "label": "Drunken Karaoke",
+      "stat": "CREATIVE",
+      "characters": [
+        "April",
+        "Zoe"
+      ],
+      "hint": "Drunken Karaoke"
+    },
+    "dungeon_low_level_monsters": {
+      "label": "Dungeon Low Level Monsters",
+      "stat": "BOLD",
+      "characters": [
+        "Doug",
+        "Nico"
+      ],
+      "hint": "Dungeon Low Level Monsters"
+    },
+    "enemies_to_lovers": {
+      "label": "Enemies to Lovers",
+      "stat": "CHARM",
+      "characters": [
+        "Liam",
+        "Omen",
+        "Zoe"
+      ],
+      "hint": "Enemies to Lovers"
+    },
+    "evil_lair_interior_design": {
+      "label": "Evil Lair Interior Design",
+      "stat": "CREATIVE",
+      "characters": [
+        "Liam",
+        "Omen"
+      ],
+      "hint": "Evil Lair Interior Design"
+    },
+    "feel_good_fanfics": {
+      "label": "Feel-good fanfics",
+      "stat": "CREATIVE",
+      "characters": [
+        "Doug",
+        "Zoe"
+      ],
+      "hint": "Feel-good fanfics"
+    },
+    "fighting_in_the_shipping_wars": {
+      "label": "Fighting in the Shipping Wars",
+      "stat": "BOLD",
+      "characters": [
+        "Omen",
+        "Zoe"
+      ],
+      "hint": "Fighting in the Shipping Wars"
+    },
+    "forming_a_cult_for_the_lolz": {
+      "label": "Forming a Cult for the lolz",
+      "stat": "CHARM",
+      "characters": [
+        "Omen",
+        "Zoe"
+      ],
+      "hint": "Forming a Cult for the lolz"
+    },
+    "glowsticks_as_a_form_of_support": {
+      "label": "Glowsticks as a form of support",
+      "stat": "CHARM",
+      "characters": [
+        "April",
+        "Doug"
+      ],
+      "hint": "Glowsticks as a form of support"
+    },
+    "heavy_metal_idols": {
+      "label": "Heavy Metal Idols",
+      "stat": "CREATIVE",
+      "characters": [
+        "April",
+        "Omen"
+      ],
+      "hint": "Heavy Metal Idols"
+    },
+    "incredibly_nuanced_villains": {
+      "label": "Incredibly nuanced villains",
+      "stat": "SMARTS",
+      "characters": [
+        "Omen",
+        "Zoe"
+      ],
+      "hint": "Incredibly nuanced villains"
+    },
+    "kawaii_plushies_of_deadly_animals": {
+      "label": "Kawaii Plushies of Deadly Animals",
+      "stat": "CHARM",
+      "characters": [
+        "April",
+        "Doug",
+        "Omen"
+      ],
+      "hint": "Kawaii Plushies of Deadly Animals"
+    },
+    "magical_girl_transformations": {
+      "label": "Magical Girl Transformations",
+      "stat": "SMARTS",
+      "characters": [
+        "April",
+        "Doug",
+        "Zoe"
+      ],
+      "hint": "Magical Girl Transformations"
+    },
+    "magical_girls_with_a_dark_twist": {
+      "label": "Magical Girls with a Dark Twist",
+      "stat": "BOLD",
+      "characters": [
+        "April",
+        "Liam",
+        "Omen"
+      ],
+      "hint": "Magical Girls with a Dark Twist"
+    },
+    "mc_with_axes_for_hands": {
+      "label": "MC with axes for hands",
+      "stat": "BOLD",
+      "characters": [
+        "Nico",
+        "Omen"
+      ],
+      "hint": "MC with axes for hands"
+    },
+    "powerscaling_your_friends": {
+      "label": "Powerscaling your friends",
+      "stat": "BOLD",
+      "characters": [
+        "Omen",
+        "Zoe"
+      ],
+      "hint": "Powerscaling your friends"
+    },
+    "the_villain_wins_at_the_end": {
+      "label": "The villain wins at the end!",
+      "stat": "BOLD",
+      "characters": [
+        "Liam",
+        "Omen"
+      ],
+      "hint": "The villain wins at the end!"
+    },
+    "overspending_on_limited_edition_blind_boxes": {
+      "label": "Overspending on Limited Edition Blind Boxes",
+      "stat": "FUN",
+      "characters": [
+        "Doug",
+        "Liam"
+      ],
+      "hint": "Overspending on Limited Edition Blind Boxes"
+    },
+    "pretending_you_re_someone_else": {
+      "label": "Pretending you're someone else",
+      "stat": "CREATIVE",
+      "characters": [
+        "April",
+        "Nico"
+      ],
+      "hint": "Pretending you're someone else"
+    },
+    "retro_games": {
+      "label": "Retro Games",
+      "stat": "FUN",
+      "characters": [
+        "Doug",
+        "Liam",
+        "Zoe"
+      ],
+      "hint": "Retro Games"
+    },
+    "roleplaying_in_bed": {
+      "label": "Roleplaying in Bed",
+      "stat": "CREATIVE",
+      "characters": [
+        "Nico",
+        "Zoe"
+      ],
+      "hint": "Roleplaying in Bed"
+    },
+    "shiny_dice": {
+      "label": "Shiny Dice",
+      "stat": "FUN",
+      "characters": [
+        "Doug",
+        "Zoe"
+      ],
+      "hint": "Shiny Dice"
+    },
+    "strategies_and_tricks_for_claw_machines": {
+      "label": "Strategies and tricks for Claw machines",
+      "stat": "SMARTS",
+      "characters": [
+        "Doug",
+        "Liam"
+      ],
+      "hint": "Strategies and tricks for Claw machines"
+    },
+    "tier_lists_for_everything": {
+      "label": "Tier Lists for Everything",
+      "stat": "SMARTS",
+      "characters": [
+        "April",
+        "Liam",
+        "Omen"
+      ],
+      "hint": "Tier Lists for Everything"
+    },
+    "tournament_arcs": {
+      "label": "Tournament Arcs",
+      "stat": "BOLD",
+      "characters": [
+        "Nico",
+        "Omen"
+      ],
+      "hint": "Tournament Arcs"
+    },
+    "ultralayered_memes": {
+      "label": "Ultralayered Memes",
+      "stat": "FUN",
+      "characters": [
+        "Liam",
+        "Zoe"
+      ],
+      "hint": "Ultralayered Memes"
+    },
+    "wholesome_memes": {
+      "label": "Wholesome Memes",
+      "stat": "CHARM",
+      "characters": [
+        "April",
+        "Doug"
+      ],
+      "hint": "Wholesome Memes"
+    },
+    "yaoi": {
+      "label": "Yaoi",
+      "stat": "FUN",
+      "characters": [
+        "Liam",
+        "Zoe"
+      ],
+      "hint": "Yaoi"
+    }
+  },
+  "item_categories": {
+    "magical_girl_tropes": {
+      "category": "magical girl tropes",
+      "options": [
+        {
+          "file": "Bold Magical Girl.png",
+          "stat": "BOLD"
+        },
+        {
+          "file": "Charming Magical Girl.png",
+          "stat": "CHARM"
+        },
+        {
+          "file": "Creative Magical Girl.png",
+          "stat": "CREATIVE"
+        },
+        {
+          "file": "Fun Magical Girl.png",
+          "stat": "FUN"
+        },
+        {
+          "file": "Smart Magical Girl.png",
+          "stat": "SMARTS"
+        }
+      ]
+    },
+    "villain_archetypes": {
+      "category": "villain archetypes",
+      "options": [
+        {
+          "file": "Bold Villain.png",
+          "stat": "BOLD"
+        },
+        {
+          "file": "Charming Villain.png",
+          "stat": "CHARM"
+        },
+        {
+          "file": "Creative Villain.png",
+          "stat": "CREATIVE"
+        },
+        {
+          "file": "Fun Villain.png",
+          "stat": "FUN"
+        },
+        {
+          "file": "Smart Villain.png",
+          "stat": "SMARTS"
+        }
+      ]
+    },
+    "fighting_game_character_archetypes": {
+      "category": "fighting game character archetypes",
+      "options": [
+        {
+          "file": "Bold Fighter.png",
+          "stat": "BOLD"
+        },
+        {
+          "file": "Charming Fighter.png",
+          "stat": "CHARM"
+        },
+        {
+          "file": "Creative Fighter.png",
+          "stat": "CREATIVE"
+        },
+        {
+          "file": "Fun Fighter.png",
+          "stat": "FUN"
+        },
+        {
+          "file": "Smart Fighter.png",
+          "stat": "SMARTS"
+        }
+      ]
+    },
+    "pokemans": {
+      "category": "Pokemans",
+      "options": [
+        {
+          "file": "Bold Pokeman.png",
+          "stat": "BOLD"
+        },
+        {
+          "file": "Charming Pokeman.png",
+          "stat": "CHARM"
+        },
+        {
+          "file": "Creative Pokeman.png",
+          "stat": "CREATIVE"
+        },
+        {
+          "file": "Fun Pokeman.png",
+          "stat": "FUN"
+        },
+        {
+          "file": "Smart Pokeman.png",
+          "stat": "SMARTS"
+        }
+      ]
+    },
+    "weird_forest_creatures": {
+      "category": "weird forest creatures",
+      "options": [
+        {
+          "file": "Bold Forest Creature.png",
+          "stat": "BOLD"
+        },
+        {
+          "file": "Charming Forest Creature.png",
+          "stat": "CHARM"
+        },
+        {
+          "file": "Creative Forest Creature.png",
+          "stat": "CREATIVE"
+        },
+        {
+          "file": "Fun Forest Creature.png",
+          "stat": "FUN"
+        },
+        {
+          "file": "Smart Forest Creature.png",
+          "stat": "SMARTS"
+        }
+      ]
+    },
+    "animals": {
+      "category": "animals",
+      "options": [
+        {
+          "file": "Bold Animal.png",
+          "stat": "BOLD"
+        },
+        {
+          "file": "Charming Animal.png",
+          "stat": "CHARM"
+        },
+        {
+          "file": "Creative Animal.png",
+          "stat": "CREATIVE"
+        },
+        {
+          "file": "Fun Animal.png",
+          "stat": "FUN"
+        },
+        {
+          "file": "Smart Animal.png",
+          "stat": "SMARTS"
+        }
+      ]
+    }
+  },
+  "character_requirements": {
+    "Liam": {
+      "prefers": [
+        "CREATIVE",
+        "SMARTS"
+      ],
+      "hint": "lots of Creativity and Smarts"
+    },
+    "Zoe": {
+      "prefers": [
+        "CREATIVE",
+        "FUN"
+      ],
+      "hint": "lots of Creativity and Fun"
+    },
+    "Omen": {
+      "prefers": [
+        "BOLD"
+      ],
+      "hint": "Boldness; dislikes nerd stats"
+    },
+    "Doug": {
+      "prefers": [],
+      "hint": "one stat much higher than others"
+    },
+    "Nico": {
+      "prefers": [],
+      "hint": "balanced stats"
+    },
+    "April": {
+      "prefers": [
+        "CHARM",
+        "FUN",
+        "CREATIVE"
+      ],
+      "hint": "Charm first, then Fun/Creative"
+    }
+  }
+}

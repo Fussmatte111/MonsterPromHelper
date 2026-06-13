@@ -1,0 +1,7761 @@
+{
+  "clubbingpl": {
+    "name": "ClubbingPL",
+    "route": "Liam & Polly",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Incite revolution"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Start naked party"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "bestapp": {
+    "name": "BestApp",
+    "route": "Polly & Miranda",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Tygr app"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "The app that turns my phone into a car"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "bestcareer": {
+    "name": "BestCareer",
+    "route": "Liam & Scott",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Artists design sports jerseys"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Sports is the best career"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "bestpokeman": {
+    "name": "BestPokeman",
+    "route": "Damien & Scott",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Winslow Jibbs"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Scabs Rentacar"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "pokemancosplay": {
+    "name": "PokemanCosplay",
+    "route": "Damien & Scott",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Unicycle"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Gun"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "moviecliche": {
+    "name": "MovieCliche",
+    "route": "Scott & Vera",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "We need fearleaders"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Stop assassinating"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "letscheat": {
+    "name": "LetsCheat",
+    "route": "Polly & Scott",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Use time machine"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Write answers on teacher's face"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "gifthorse": {
+    "name": "GiftHorse",
+    "route": "Miranda & Scott",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Breed it with sea urchins"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "They don't want you to find mouth candy"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "slayerissues": {
+    "name": "SlayerIssues",
+    "route": "Damien & Liam",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Murder the slayers"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Massive PR campaign"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "fashionoutfit": {
+    "name": "FashionOutfit",
+    "route": "Liam & Vera",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Put on the hotdog costume"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Strip naked"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "clubphonenumber": {
+    "name": "ClubPhoneNumber",
+    "route": "Liam & Polly",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Coat yourself in insect pheromones"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Seperate into a cloud of locusts"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "whatsart": {
+    "name": "WhatsArt",
+    "route": "Liam & Miranda",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Makes worthless things expensive"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "It makes you feel bad inside"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "terrorlogistics": {
+    "name": "TerrorLogistics",
+    "route": "Damien & Vera",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "MONEY",
+        "hint": "Use convenient list"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Replace organs with possums"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "chaoslovers": {
+    "name": "ChaosLovers",
+    "route": "Damien & Polly",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Release Kralak-Thul"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Party goblins"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "passtheexam": {
+    "name": "PassTheExam",
+    "route": "Damien & Miranda",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Lobby the government"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Burn down entire school"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "shoppingmonster": {
+    "name": "ShoppingMonster",
+    "route": "Polly & Vera",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Ignore it"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Befriend it"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "showpower": {
+    "name": "ShowPower",
+    "route": "Miranda & Vera",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Replace houses with water park"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Make everyone who doesn't love you disappear"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "secretclub": {
+    "name": "SecretClub",
+    "route": "Liam & Miranda",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Magic is real!"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Eat a bunch of cotton candy"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "freedrinks": {
+    "name": "FreeDrinks",
+    "route": "Polly & Vera",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Sedate the guy"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Steal the guy's wallet"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "partyinvites": {
+    "name": "PartyInvites",
+    "route": "Liam & Polly",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Hand-letter three flyers"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Take a topless selfie"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "teammascot": {
+    "name": "TeamMascot",
+    "route": "Miranda & Scott",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "A cross between every kind of monster"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Corporate Greed"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "strategytowin": {
+    "name": "StrategyToWin",
+    "route": "Scott & Vera",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Blackmail material"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "A player who's really a truck"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "twolights": {
+    "name": "TwoLights",
+    "route": "Liam & Scott",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Let's go shirtless"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Write a nuanced play"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "ghostsmell": {
+    "name": "GhostSmell",
+    "route": "Polly & Scott",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Of course ghosts smell"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "It sure is a mystery!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "notapet": {
+    "name": "NotAPet",
+    "route": "Damien & Vera",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "HARDCORE DEATH METAL"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Implant a tracking device"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "hideouspeople": {
+    "name": "HideousPeople",
+    "route": "Liam & Vera",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "True hideousness is on the inside"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Traditional beauty standards"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "hentai": {
+    "name": "Hentai",
+    "route": "Liam & Vera",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Hentai should be more artistic"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Open your own hentai studio"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "rescuemission": {
+    "name": "RescueMission",
+    "route": "Damien & Polly",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "What’s the matter, Damien?"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "You know, Polly,"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "tvshowideas": {
+    "name": "TVShowIdeas",
+    "route": "Scott & Vera",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Mafia threatens to close gym"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Chile 1985"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "statusquo": {
+    "name": "StatusQuo",
+    "route": "Damien & Liam",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Number of Instagram followers"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Tomb robbery contest"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "tindertricks": {
+    "name": "TinderTricks",
+    "route": "Liam & Scott",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Draw a smiley face"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Custom Instagram filter"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "crowdserfing": {
+    "name": "CrowdSerfing",
+    "route": "Miranda & Vera",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Recruit people who want to be bossed around"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Host an “unpaid labor competition”"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "miridamiencockfight": {
+    "name": "MiriDamienCockfight",
+    "route": "Damien & Miranda",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "A romantic proposal"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Go undercover as a rooster!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "bestdiet": {
+    "name": "Bestdiet",
+    "route": "Polly & Scott (+ Liam)",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Imhotep Cleanse"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Jurassic diet"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "spikethedrink": {
+    "name": "SpikeTheDrink",
+    "route": "Polly & Vera",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Moonroot"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Make him a laughingstock"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "musicfestival": {
+    "name": "MusicFestival",
+    "route": "Liam & Polly",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Get into as much ayahuasca as possible"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Don't fight over this"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "yaoi": {
+    "name": "Yaoi",
+    "route": "Damien & Liam",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "I present to you… yaoi"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Don’t be silly! You don’t want to fight me"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "testosterone": {
+    "name": "Testosterone",
+    "route": "Damien & Scott",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "I happen to be a registered Ultimate Warrior Judge"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Whoever can punch the sun in the face"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "princefight": {
+    "name": "PRINCEFIGHT",
+    "route": "Miranda & Polly",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Naked fencing with live weasels instead of swords"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Let’s see you win...AT LOSING"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "agentsofchaos": {
+    "name": "AGENTSOFCHAOS",
+    "route": "Damien & Polly",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Destroy the institution of marriage"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Replace all the water in the school with mosquitoes"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "damirandventure": {
+    "name": "DAMIRANDVENTURE",
+    "route": "Damien & Miranda",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Go on a deep sea quest"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Journey to a volcano"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "veramiriwolfpack": {
+    "name": "VERAMIRIWOLFPACK",
+    "route": "Miranda & Vera",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "MONEY",
+        "hint": "Tonight? Miranda can’t"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "You don’t want to go out with Vera"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "fightairpeople": {
+    "name": "FightAirPeople",
+    "route": "Miranda & Scott",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "REACH A TRUCE!"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "WIPE THEM OUT!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "partyprops": {
+    "name": "PartyProps",
+    "route": "Miranda & Polly",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "You should get Polly a pinata"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Miranda, you like clowns, right?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "magicartifact": {
+    "name": "MagicArtifact",
+    "route": "Damien & Scott",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Don’t worry Damien, you can keep the Duct Tape of Retribution"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Scott, you don’t really care about the DUCT TAPE, right?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "dragrace": {
+    "name": "DragRace",
+    "route": "Damien & Vera",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Let’s give this car a MAKEOVER!"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "We need to crossbreed her with a faster car"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "schoolclubs": {
+    "name": "schoolclubs",
+    "route": "Liam & Miranda",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "The pony one is at night"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "The best club is clearly the club club"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "hornheadcanon": {
+    "name": "HornHeadcanon",
+    "route": "Damien & Zoe",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "It's not \"hard\" to imagine"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "You should see what the other guy lost"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "airpeoplefanfic": {
+    "name": "AirPeopleFanfic",
+    "route": "Miranda & Zoe",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "You need to go destroy Marmanda"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "It's just a cheap trick"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "bestaboutrelationships": {
+    "name": "BestAboutRelationships",
+    "route": "Vera & Zoe",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Increasing power and material gain"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Silly couples costumes"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "joindahlia": {
+    "name": "JoinDahlia",
+    "route": "Calculester & Zoe (+ Dahlia)",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "She's a LaVey sympathizer!"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Go look for a tank!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "whostheone": {
+    "name": "WhosTheOne",
+    "route": "Calculester & Miranda",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "\"The one\" is willing to fight"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Calculate exactly who \"the one\" is"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "robotdrugs": {
+    "name": "Robotdrugs",
+    "route": "Calculester & Polly",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Ask him to divide by zero!"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "AA meeting"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "musclefanfic": {
+    "name": "MuscleFanFic",
+    "route": "Scott & Zoe",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "The true natural enemy of muscles"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Perspective of the muscles"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "howpollydied": {
+    "name": "HowPollyDied",
+    "route": "Polly & Zoe",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 2,
+        "stat": "MONEY",
+        "hint": "Tell it to her, Polly"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "littleplant": {
+    "name": "LittlePlant",
+    "route": "Calculester & Scott",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "You know what this plant REALLY needs?"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Water is like an energy drink"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "yaoiwars": {
+    "name": "yaoiwars",
+    "route": "Liam & Zoe",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Liam's gaze is male"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Yaoi is the gluten of the art world!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "measureart": {
+    "name": "measureart",
+    "route": "Calculester & Liam",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Some things can't be measured"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "All art can be measured"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "secretweapon": {
+    "name": "secretweapon",
+    "route": "Calculester & Damien",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Portugal"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "What about this button?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "giveuppassword": {
+    "name": "giveuppassword",
+    "route": "Calculester & Vera",
+    "type": "Pick Love Interest",
+    "options": [
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "CONFETTI!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "prommount": {
+    "name": "PromMount",
+    "route": "Damien",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "A goat"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "That giant, gelatinous, fifty-foot creature"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "onceimking": {
+    "name": "OnceImKing",
+    "route": "Damien",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "TOTAL WAR"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Kings have harems"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "interdimensionalweddingd": {
+    "name": "InterdimensionalWeddingD",
+    "route": "Damien (+ Prince)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Defeat the Prince’s entire army"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Show Damien a picture"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "detentionclub": {
+    "name": "DetentionClub",
+    "route": "Damien",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Do it. DO IT"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Make lifelong friends with a diverse group of students"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "disguisecorpse": {
+    "name": "DisguiseCorpse",
+    "route": "Damien",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Disguise him as a drinking fountain"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Just chuck him in my garbage"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "talentshowd": {
+    "name": "TalentshowD",
+    "route": "Damien",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Trophy theft"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Arson"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "darkknight": {
+    "name": "DarkKnight",
+    "route": "Damien",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Driven evil by the death of his parents"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "GO ON A REAL-LIFE KILLING SPREE"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "makeliamforget": {
+    "name": "MakeLiamForget",
+    "route": "Damien & Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Rewrite the whole play"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Rocket launcher"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "reasonstoassassinate": {
+    "name": "ReasonsToAssassinate",
+    "route": "Damien & Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Because nobody’s paying you not to!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "No reason at all!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "fightdahlia": {
+    "name": "fightdahlia",
+    "route": "Damien & Liam & Scott (+ Dahlia)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "If you want Damien, you'll have to go through me..."
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "But Dahlia, this isn't really Damien!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "fakedeath": {
+    "name": "FakeDeath",
+    "route": "Calculester & Damien & Polly & Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "You’re right, I did murder her!"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Show Calculester that the ax is just a prop"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "darkknighttwist": {
+    "name": "DarkKnightTwist",
+    "route": "Damien & Miranda & Zoe",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "He never got his Dark Knight’s license"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Auntie Maim is not a Dark Knight at all"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "damientorture": {
+    "name": "DamienTorture",
+    "route": "Damien",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Knife soup"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "A kitten you can never snuggle"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "betterthanfire": {
+    "name": "BetterThanFire",
+    "route": "Damien",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "More fire"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Sarcasm"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "whotocopy": {
+    "name": "WhoToCopy",
+    "route": "Damien & Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Copy Liam"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Copy the teacher"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "classseat": {
+    "name": "ClassSeat",
+    "route": "Damien & Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Take the seat yourself"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "CALL DOWN AN UNHOLY STORM OF RHINOCERI"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "pokemantagduel": {
+    "name": "PokemanTagDuel",
+    "route": "Damien & Scott & Zoe (+ Leonard)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Bribe Miss Feratu"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Frame Leonard for murder!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "jointhedarksidedp": {
+    "name": "JoinTheDarkSideDP",
+    "route": "Damien & Polly (+ Coven & Dmitri)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "The Dark Side was sort of cool last month"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Your grandma is already on the Dark Side"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "fofdamien": {
+    "name": "FoFDamien",
+    "route": "Damien",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "You play this game all the time"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Speak the forbidden name of the Faceless Goat God"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "spoileralert": {
+    "name": "SPOILERALERT",
+    "route": "Damien",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Create an algorithm"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Let’s mess up your brains"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "burningbooks": {
+    "name": "BurningBooks",
+    "route": "Damien & Liam",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Tell him there was a three-horned paper-gobbler"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "BURN DOWN THE ENTIRE LIBRARY!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "internetcrimes": {
+    "name": "InternetCrimes",
+    "route": "Damien & Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Smashing the internet is literally our only option"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Blame somebody else"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "fof": {
+    "name": "FoF",
+    "route": "Damien & Liam & Scott (+ Slayer)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Gary the Game Developer"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Just start dancing in a very stylish way!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "hunterattackoutdoorsd": {
+    "name": "HunterAttackOutdoorsD",
+    "route": "Damien",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Yo momma’s so poor"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Fuck you, you Van-Helsing-looking piece of shit"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "damienvspack": {
+    "name": "DAMIENVSPACK",
+    "route": "Damien",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Damien IS a werewolf!!"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "RAAAAAAAAP BAAAAAAAATTLE!!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "microsociety": {
+    "name": "MicroSociety",
+    "route": "Damien & Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Build a new hospital"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "War"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "hunterattack": {
+    "name": "HunterAttack",
+    "route": "Damien & Liam",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Bring everyone to tears with a mind-shattering guitar solo"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Throw a brick at her head"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "friendsvswolfpack": {
+    "name": "Friendsvswolfpack",
+    "route": "Damien & Scott & Vera (+ Wolfpack)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Pretend to throw a ball really far"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Stack Vera and Damien on your shoulders"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "slayerxp": {
+    "name": "slayerxp",
+    "route": "Damien & Liam & Zoe (+ Slayer)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Have you tried getting an internship at a megacorporation?"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Have you heard of Spooky Kindergarten?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "mushroomlove": {
+    "name": "mushroomlove",
+    "route": "Damien & Scott & Zoe(+ Violet/Tate)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "You can date whatever is in this mystery box!"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Let me do a tarot reading on your love life first!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "dodgeballtrick": {
+    "name": "DodgeballTrick",
+    "route": "Damien",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "The five-point ball exploding heart technique!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Gun!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "yourbestselfd": {
+    "name": "YourBestSelfD",
+    "route": "Damien (+ Coach)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Obstacle course through a burning building"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "An ambitious regimen of powerlifting"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "strategytowinmd": {
+    "name": "StrategyToWinMD",
+    "route": "Damien & Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Get off my nuts, narrator"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Just throw the ball and have fun!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "ropetraining": {
+    "name": "RopeTraining",
+    "route": "Damien & Scott (+ Coach)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "We’ve got to go native, mates"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "They’re so cute! Let’s slay em with kindness!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "wcfire": {
+    "name": "WCFire",
+    "route": "Damien",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Call Scott and have him pee it out!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Burn down the whole school"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "bodymodification": {
+    "name": "BodyModification",
+    "route": "Damien",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "How about a tattoo of your face… on the tip of your tongue"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Gun hands"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "wcgriffin": {
+    "name": "WCGriffin",
+    "route": "Damien & Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Try that specific spell that turns griffins into plates of spaghetti"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Challenge it to a radical hip hop battle!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "werebear": {
+    "name": "Werebear",
+    "route": "Damien & Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Make yourself as big as possible"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Play dead until he goes away"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "pokeralternative": {
+    "name": "PokerAlternative",
+    "route": "Damien & Polly & Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Russian roulette"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "The stock market"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "robotwars": {
+    "name": "robotwars",
+    "route": "Calculester & Damien & Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Upload subversive propaganda to the other robots' CPUs"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Disguise him as a human"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "betterthanabat": {
+    "name": "BetterThanABat",
+    "route": "Liam",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "A hotdog stand"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "A general feeling of unease"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "interdimensionalweddingl": {
+    "name": "InterdimensionalWeddingL",
+    "route": "Liam (+ Prince)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "A unicorn with a toilet on its head"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "The concept of marriage itself"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "bestera": {
+    "name": "BestEra",
+    "route": "Liam",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "3.85 billion BC"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "July 26th, 2am to 5am"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "complexemoji": {
+    "name": "ComplexEmoji",
+    "route": "Liam",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Croissant, School Bus, Shooting Star, Trumpet and Crocodile"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Little Vampire Growing Disinterested"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "fbstatus": {
+    "name": "FBStatus",
+    "route": "Liam",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Everyone reading status is an idiot"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "VAGUEBLOG"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "virtuemagazine": {
+    "name": "VirtueMagazine",
+    "route": "Liam",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Legalization of recreational chimera toxins"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Pasta industry’s griffin-trafficking"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "potatochips": {
+    "name": "PotatoChips",
+    "route": "Liam & Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Assemble an army"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Write an extremely mean blog post"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "interdimensionalbachelor": {
+    "name": "InterdimensionalBachelor",
+    "route": "Liam & Polly & Vera (+ Prince)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "My grandmother’s wedding ring"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "[Jaw unhinges, bees pour out]"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "talentshowl": {
+    "name": "TalentshowL",
+    "route": "Liam",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Thirteen minutes of judgemental staring"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "A live mashup"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "betterplay": {
+    "name": "BetterPlay",
+    "route": "Liam",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "The audience is the villain"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "People like shit"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "fundtheplay": {
+    "name": "FundThePlay",
+    "route": "Liam & Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Have a bake sale"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "This is a charity event"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "thetreethefocus": {
+    "name": "TheTreeTheFocus",
+    "route": "Liam & Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "He comes alive at the last second"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "What if… everyone was scenery"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "playintermission": {
+    "name": "PlayIntermission",
+    "route": "Liam & Miranda & Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Re-enact Snow White!"
+      },
+      {
+        "option": 2,
+        "stat": "MONEY",
+        "hint": "Literally just throw money at them"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "nomoretests": {
+    "name": "NoMoreTests",
+    "route": "Liam",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Rap battles"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "A brutal fight to the death"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "vampireweakness": {
+    "name": "VampireWeakness",
+    "route": "Liam",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Global thermonuclear war"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Harmonica music"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "artmeaning": {
+    "name": "Artmeaning",
+    "route": "Liam & Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Make it up!"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Read the clearly printed label"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "killstare": {
+    "name": "KillStare",
+    "route": "Liam & Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "A look so fabulous, it slays"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Hypnotize Liam into liking something uncool"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "coolbands": {
+    "name": "CoolBands",
+    "route": "Liam",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Forget the boring old web"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "They don’t exist yet, so they can’t possibly become popular!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "wolfwashing": {
+    "name": "WOLFWASHING",
+    "route": "Liam",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Star in the movie yourself!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Start a rumor about the casting director"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "studyscott": {
+    "name": "StudyScott",
+    "route": "Liam & Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "How about we give him a biscuit?"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Make him eat your homework"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "hunterattackoutdoorsl": {
+    "name": "HunterAttackOutdoorsL",
+    "route": "Liam (+ Slayer)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Critique her fashion sense!"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Banish her phone to the hell dimension!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "coolrave": {
+    "name": "CoolRave",
+    "route": "Liam",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Replace all the music with a SWARM OF BEES!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Invite undead painter Jackson Pollock"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "footballcrisis": {
+    "name": "FootballCrisis",
+    "route": "Liam & Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Throw yourself in front of Liam"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Try reasoning with the football"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "musicfestivalmiranda": {
+    "name": "MusicFestivalMiranda",
+    "route": "Liam & Miranda & Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Is it really a party?"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Her royal status will give us diplomatic immunity"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "electronicmusic": {
+    "name": "electronicmusic",
+    "route": "Calculester & Liam & Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Music is all about randomness"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Music is all about waiting as long as possible to drop the bass"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "skipgym": {
+    "name": "Skipgym",
+    "route": "Liam",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Turn into a cloud of translucent mist"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Tell him you're dead"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "liamvswolpack": {
+    "name": "LiamVSwolpack",
+    "route": "Liam (+ Wolfpack)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "You’re a vampire -- PLAY DEAD!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Turn into a vampire bat, bite them, give them rabies"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "newsport": {
+    "name": "NewSport",
+    "route": "Liam & Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Didn’t you read the rulebook?"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "The points were inside of us all along!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "strategytoskipgym": {
+    "name": "StrategyToSkipGym",
+    "route": "Liam & Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Let's throw a surprise party for Coach"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Fake mustaches!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "anotherwaytowin": {
+    "name": "anotherwaytowin",
+    "route": "Calculester & Liam & Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "To win at dodgeball… you have to think like a ball"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "fightthecrocodiles": {
+    "name": "fightthecrocodiles",
+    "route": "Calculester & Liam(+ Coach & Dahlia)",
+    "type": "-",
+    "options": [
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Put on your anti-crocodile cologne"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "graffittiideas": {
+    "name": "GraffittiIdeas",
+    "route": "Liam",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "A spell that will change the reader’s life"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Pineapple propaganda"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "liamcoven": {
+    "name": "LiamCoven",
+    "route": "Liam (+ Coven)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Heroically volunteer to take Liam’s place"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "FIGHT THE COVEN!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "drugstash": {
+    "name": "DrugStash",
+    "route": "Liam & Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "We’re raising spiders"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "An illusion created by the drugs you’re on!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "graffittiinterpretation": {
+    "name": "GraffittiInterpretation",
+    "route": "Liam & Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "It’s an exclusive download code"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "That’s Polly’s number!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "liammirror": {
+    "name": "LiamMirror",
+    "route": "Liam & Miranda & Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Surgically remove Liam’s face"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Create a perfect replica of Liam"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "boredarmy": {
+    "name": "BoredArmy",
+    "route": "Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Divide them in half"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "A thousand pinatas"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "interdimensionalweddingm": {
+    "name": "InterdimensionalWeddingM",
+    "route": "Miranda (+ Prince)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Miranda has the hair of a goddess"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "What about these fish scales?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "whatstinder": {
+    "name": "WhatsTinder",
+    "route": "Miranda (+ Polly)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "I’ll coach you in the mysterious ways of Tinder"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Why don’t you just buy the entire company?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "firstdecree": {
+    "name": "FirstDecree",
+    "route": "Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Taxes are fun!"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Paint. Every. Student. Pink."
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "spottraitors": {
+    "name": "SpotTraitors",
+    "route": "Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Keep an eye out for the classic signs"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Pretty much everybody is a traitor"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "avoidrevolution": {
+    "name": "AvoidRevolution",
+    "route": "Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Replace all your subjects with mindless robots"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Give all your subjects belly rubs!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "talentshowm": {
+    "name": "TalentshowM",
+    "route": "Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Don’t worry about those chumps in the audience"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Just picture everyone naked"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "fabulousplay": {
+    "name": "FabulousPlay",
+    "route": "Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Alter the script so that it is about your kingdom"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Take the leading role!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "weirdstudymethod": {
+    "name": "WeirdStudyMethod",
+    "route": "Miranda & Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "What if, instead of apples, they were oranges?"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "What if, instead of farmers, they were trains?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "amazingpotions": {
+    "name": "AmazingPotions",
+    "route": "Miranda & Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "A potion that transports the drinker"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "A potion that gives mayonnaise flavour"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "newteacher": {
+    "name": "NewTeacher",
+    "route": "Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "I can show you at least a dozen images of him"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Photoshop him into a picture"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "airpeoplepresentation": {
+    "name": "AIRPEOPLEPRESENTATION",
+    "route": "Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Bribe everyone"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Tell everyone that the air people don’t tag their spoilers"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "cheerleadingvera": {
+    "name": "CheerleadingVera",
+    "route": "Miranda & Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Build a human pyramid"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Do the wave"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "conquerclass": {
+    "name": "conquerclass",
+    "route": "Calculester & Miranda & Scott (+ Dahlia)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "WITH OUR FISTS!"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "WITH BIOLOGICAL WARFARE!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "updatecalculester": {
+    "name": "UpdateCalculester",
+    "route": "Calculester & Miranda & Vera & Zoe",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "We should improve him as an individual"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "We just have to rename him \"Calculester X\""
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "internetowner": {
+    "name": "InternetOwner",
+    "route": "Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "The true owner of the internet was you all along!"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "The Illuminati, duh"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "africanprince": {
+    "name": "AfricanPrince",
+    "route": "Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "MONEY",
+        "hint": "Send a hundred dollars"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Some tips to improve failing economic system"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "whatisporn": {
+    "name": "WhatIsPorn",
+    "route": "Miranda & Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "It’s a cooking show!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Well you see, Miranda,"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "ruletheworld": {
+    "name": "RuleTheWorld",
+    "route": "Miranda & Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Just remember the three R’s"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Let’s repress them into happiness!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "covenfight": {
+    "name": "CovenFight",
+    "route": "Miranda & Polly & Vera (+ Coven)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Whip out your rooster"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Chop up all the study tables with a big axe!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "iamnotrobot": {
+    "name": "Iamnotrobot",
+    "route": "Calculester & Miranda & Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Time to fight for robot rights to use the internet freely"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Just click the damn box!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "examserf": {
+    "name": "ExamSerf",
+    "route": "Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Yell every word that can be a mental trigger"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Convince the Wolfpack"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "mirandasummer": {
+    "name": "MirandaSummer",
+    "route": "Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "My family, too, possesses many fine estates"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Yup, I play in garbage"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "organizingrave": {
+    "name": "OrganizingRave",
+    "route": "Miranda & Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Filter everyone through this dangerous magic prism"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Color-seeking German Shepherds"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "poolcoup": {
+    "name": "PoolCoup",
+    "route": "Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "How about a charity swim"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Mines! Loads of mines!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "mirandagymchoice": {
+    "name": "MIRANDAGYMCHOICE",
+    "route": "Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Loyalty is crucial"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "It’s not about the students as individuals"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "parasitedahlia": {
+    "name": "parasitedahlia",
+    "route": "Miranda & Zoe(+ Dahlia & Violet/Tate)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Invite a third wheel to ruin their fusion"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Remind Miranda that she should feed on her host’s brain"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "fancywc": {
+    "name": "FancyWC",
+    "route": "Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Flood the entire bathroom"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "A gold-plated robot that helps you wipe"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "goldfishtrial": {
+    "name": "GoldfishTrial",
+    "route": "Miranda",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "You’re all above water, so he CAN’T BREATHE!"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "The goldfish said trial by combat… he didn’t say what kind!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "girltalk": {
+    "name": "girltalk",
+    "route": "Miranda & Polly & Zoe",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "MONEY",
+        "hint": "Hire a hitman to kill every other crush they just mentioned"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Pit yourself against other punks in an online poll!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "eternity": {
+    "name": "Eternity",
+    "route": "Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Piss off a priest"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Meth"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "interdimensionalweddingp": {
+    "name": "InterdimensionalWeddingP",
+    "route": "Polly (+ Prince)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Throw a party"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Marry the Prince yourself"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "spiritemoji": {
+    "name": "SpiritEmoji",
+    "route": "Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Pink Heart With a Ribbon Around It"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Airhorn"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "bestafterlife": {
+    "name": "BESTAFTERLIFE",
+    "route": "Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "A soft and enveloping cloud"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Nothingness"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "pollyinlove": {
+    "name": "PollyinLove",
+    "route": "Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Do something fun with them"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Stare deeply into their eyes"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "pollytinderpickup": {
+    "name": "PollyTinderPickUp",
+    "route": "Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "You’re BOO-tiful!"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Are you drugs?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "mindmanipulators": {
+    "name": "MindManipulators",
+    "route": "Polly & Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Phony workout craze"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "“Stealing”"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "talentshowp": {
+    "name": "TalentshowP",
+    "route": "Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Awesome suicide medley"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Um, hello? Twerking?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "slayerpotions": {
+    "name": "SlayerPotions",
+    "route": "Polly (+ Slayer)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Turn her into a cucumber!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Punch her in the stomach!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "jointhedarksidezsp": {
+    "name": "JointheDarkSideZSP",
+    "route": "Polly & Scott & Zoe(+ Coven & Dmitri)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Not everything is about good and evil, guys"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "I’ll tell you what I want, what I really really want"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "coverpolly": {
+    "name": "CoverPolly",
+    "route": "Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Release the ferrets"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Say, “Polly’s not drunk, you’re drunk!”"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "ghostbest": {
+    "name": "GhostBest",
+    "route": "Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Binge-drinking all night"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Going skydiving"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "prankmasterzclass": {
+    "name": "PrankMasterzClass",
+    "route": "Polly & Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Tell the teacher she has something on her face"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Consecrate the room"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "deepweb": {
+    "name": "DeepWeb",
+    "route": "Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "You need to bury your computer in an ancient crypt"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "The password is “blueberry”"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "spikecv": {
+    "name": "SpikeCV",
+    "route": "Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Past work experience"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Just include a super hot selfie"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "internetprank": {
+    "name": "InternetPrank",
+    "route": "Polly & Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Type the numbers 8, 0, 0, 8, and 5"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Use ghost powers to punch people"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "crazierrave": {
+    "name": "CrazierRave",
+    "route": "Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Party in the FIFTH DIMENSION"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Let's steal a bunch of helicopters"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "pollyphonesoul": {
+    "name": "PollyPhoneSoul",
+    "route": "Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "We just need to download the mobile update"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "I’ll perform an exorcism"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "coveneclipse": {
+    "name": "CovenEclipse",
+    "route": "Polly & Vera (+ Coven)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "MONEY",
+        "hint": "Bribe your contacts in military intelligence"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Offer the Solar Behemoth half the twelve-year-olds"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "badyoga": {
+    "name": "BadYoga",
+    "route": "Polly & Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Focus on deep, mindful breathing"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "You need yoga pants"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "newworkout": {
+    "name": "NewWorkout",
+    "route": "Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "The ultimate ghost workout"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "BEER! PONG!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "dodgeballwar": {
+    "name": "DODGEBALLWAR",
+    "route": "Polly (+ Prince)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Speak to our highest-ranking officer: COACH!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "A true hero wouldn’t flee to safety"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "leaderskills": {
+    "name": "LeaderSkills",
+    "route": "Polly & Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Dodgeball is just dancing that you can WIN at!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Smash her cellphone, blame the other team"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "endthematch": {
+    "name": "endthematch",
+    "route": "Polly & Vera & Zoe",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Convince Coach that dodgeball is cultural appropriation"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Mustard gas"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "selfiesticker": {
+    "name": "SelfieSticker",
+    "route": "Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "DANCE MONKEY"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Another picture of your face"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "wcwine": {
+    "name": "WCWine",
+    "route": "Polly",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Sell it to the military"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Pour it in people’s mouths"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "makeupcontest": {
+    "name": "MakeUpContest",
+    "route": "Polly & Vera(+ Damien & Miranda)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Visit the dungeons of L’Nkom, Sumerian God of Makeup"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Make up this potato"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "wcwinemascot": {
+    "name": "Wcwinemascot",
+    "route": "Polly & Scott & Vera & Zoe",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Invent a cute cuddly character to hock your product"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Get an endorsement"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "powerdrink": {
+    "name": "PowerDrink",
+    "route": "Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Vial of genie sweat"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Grape-flavored steroids"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "interdimensionalweddings": {
+    "name": "InterdimensionalWeddingS",
+    "route": "Scott (+ Prince)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Rally a swarm of extradimensional termites"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Sing sweetly"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "weresomething": {
+    "name": "Weresomething",
+    "route": "Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Weremoon"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Werewerewolf"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "wolfpackproblems": {
+    "name": "WolfpackProblems",
+    "route": "Scott (+ Wolfpack)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Let me teach you a new game"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Aren’t we all wolves?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "brainexercise": {
+    "name": "BrainExercise",
+    "route": "Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "You just need to lift really heavy books!"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Let’s brainstorm!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "talentshows": {
+    "name": "TalentshowS",
+    "route": "Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Draw it on with a sharpie"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Here, I made you these drugs"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "truetree": {
+    "name": "TrueTree",
+    "route": "Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Pee on yourself"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Consume the script"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "helpscott": {
+    "name": "HelpScott",
+    "route": "Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Signal Scott using semaphore"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Write the correct answers somewhere"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "conquertheteacher": {
+    "name": "ConquerTheTeacher",
+    "route": "Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Disrupt the class with a stunning display of athletics"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Bring the teacher lots of small animal carcasses"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "fixcomputer": {
+    "name": "FixComputer",
+    "route": "Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "You're giving the computer mouth-to-mouth instead of... me"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "You need to take off your clothes"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "scottscamgirl": {
+    "name": "ScottsCamGirl",
+    "route": "Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Invert the art of stripping"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Car chases"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "jointhedarksidezs": {
+    "name": "JoinTheDarkSideZS",
+    "route": "Scott & Zoe (+ Coven & Dmitri)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "The commute is terrible!"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Why join the Dark Side when you could join… the Mark Side?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "bonesstash": {
+    "name": "BonesStash",
+    "route": "Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "A preschool"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Forget these bones"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "betterholes": {
+    "name": "BetterHoles",
+    "route": "Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "This is why god invented dynamite"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Meet my friends, the mole people!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "tongueworkout": {
+    "name": "tongueworkout",
+    "route": "Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "You’ve got to work your way up to tongue squats"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Tongue squats aren’t meant for dog tongues"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "peptalk": {
+    "name": "PepTalk",
+    "route": "Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Here, wear my lucky underwear!"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "It’s supposed to be a PUP talk!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "strategytowinsv": {
+    "name": "StrategyToWinSV",
+    "route": "Scott & Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "We completely change the rules of dodgeball"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "It’s time to unleash your sick acting skills"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "peeproblems": {
+    "name": "PeeProblems",
+    "route": "Scott",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Put a curse on the stall"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "I’d stand next to the stall"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "pissingcontest": {
+    "name": "PissingContest",
+    "route": "Scott (+ Wolfpack & Coach)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Drink three times your bodyweight in yellow food dye"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "The best pee was inside you all along"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "tamponcheerleading": {
+    "name": "TamponCheerleading",
+    "route": "Scott & Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Run and get her a gift to cheer her up!"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Cheerleaders only cheer outside of bathrooms"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "wolfpackdate": {
+    "name": "WolfpackDate",
+    "route": "Scott & Vera (+ Wolfpack)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Mystery is alluring!"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Just be yourself!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "snakefeud": {
+    "name": "SnakeFeud",
+    "route": "Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Decapitate them"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Put them to work"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "perseusstalker": {
+    "name": "PerseusStalker",
+    "route": "Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Threaten to feed a damsel to a sea monster"
+      },
+      {
+        "option": 2,
+        "stat": "MONEY",
+        "hint": "Bribe Zeus"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "interdimensionalweddingv": {
+    "name": "InterdimensionalWeddingV",
+    "route": "Vera (+ Prince)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Replace all his gold with fish"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Steal all his money"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "dickpics": {
+    "name": "Dickpics",
+    "route": "Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Go for the burn"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Destroy his life"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "schoolhierarchy": {
+    "name": "SchoolHierarchy",
+    "route": "Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Un-Cool students have to carry cool students"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Rotting squid should be thrown at Un-Cool students"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "petrifiedgirl": {
+    "name": "PetrifiedGirl",
+    "route": "Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Dress her up"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Mister Hammer will make short work of the evidence"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "talentshowv": {
+    "name": "TalentshowV",
+    "route": "Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "I’d send them each a box of chocolates"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "I’d give them lead poisoning"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "playmoney": {
+    "name": "PlayMoney",
+    "route": "Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Very rigged bets"
+      },
+      {
+        "option": 2,
+        "stat": "MONEY",
+        "hint": "Just buy the play out"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "creativemurdervera": {
+    "name": "CreativeMurderVera",
+    "route": "Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Bore them to death!"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "A complicated killing machine"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "veracareer": {
+    "name": "VeraCareer",
+    "route": "Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Have you considered judging reality television?"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Who needs college?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "showandtell": {
+    "name": "SHOWANDTELL",
+    "route": "Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Show your fierce body!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Show your superiority!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "scamvictims": {
+    "name": "ScamVictims",
+    "route": "Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "A flashing banner ad"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "A post on Reddit asking for suckers to join your new scam"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "darkartsgirl": {
+    "name": "DARKARTSGIRL",
+    "route": "Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "You should write a heated essay decrying sexism"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "You don’t need to prove your love of the dark arts"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "jointhedarksidevc": {
+    "name": "JoinTheDarkSideVC",
+    "route": "Calculester & Vera (+ Coven & Dmitri)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Dmitri's not telling you the Dark Side's darkest secret"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "It's totally touristy and played out"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "ravemoney": {
+    "name": "RaveMoney",
+    "route": "Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Patent dance move"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Literally turn them into cash"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "veraprincedance": {
+    "name": "VERAPRINCEDANCE",
+    "route": "Vera (+ Prince)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "You must dance the drunken paranoid monkey salsa"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "This alternate dimension is an ALTERNATE alternate dimension"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "teamcriteria": {
+    "name": "TeamCriteria",
+    "route": "Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Pick all the worst players"
+      },
+      {
+        "option": 2,
+        "stat": "MONEY",
+        "hint": "I’ll just hire us a team of homicidal dodgeball supermen"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "yourbestselfv": {
+    "name": "YourBestSelfV",
+    "route": "Vera (+ Coach)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Deadlifts!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Burpees!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "veraillegalbusiness": {
+    "name": "VeraIllegalBusiness",
+    "route": "Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "What?! This isn’t illegal"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Convince Principal Giant Spider that you’re him"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "veracompliment": {
+    "name": "VeraCompliment",
+    "route": "Vera",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "I’ve got a flute that might do the trick"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "There’s way worse animals you could have for hair"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "helladvocate": {
+    "name": "HellAdvocate",
+    "route": "Calculester & Vera & Zoe (+ Dahlia)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Bring in a surprise witness!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Shout \"Objection!\" over and over again!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "plantlove": {
+    "name": "plantlove",
+    "route": "Calculester (+ Violet/Tate)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Actually, robots and succulents are romantically incompatible!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "You can’t be in a relationship with Robert… Because I AM!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "plantrival": {
+    "name": "plantrival",
+    "route": "Calculester (+ Dahlia)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "What you need is another plant"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Dahlia, there’s no better rival than you!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "plantnerd": {
+    "name": "plantnerd",
+    "route": "Calculester (+ Leonard)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "A true succulent fan would has every succulent"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "A true succulent fan would actually be a fan"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "facialhair": {
+    "name": "facialhair",
+    "route": "Calculester (+ Wolfpack)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "You know what’s even manlier?"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Calculester does have facial hair"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "healingplant": {
+    "name": "healingplant",
+    "route": "Calculester (+ Coven)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Isn't this plant worth more than the entirety of monsterkind?"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "If you're looking for aloe vera, why don't you just ask Vera?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "interdimensionalweddingplant": {
+    "name": "InterdimensionalWeddingPlant",
+    "route": "Calculester (+ Prince)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "You can’t marry that plant - it’s already married!"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Just let him marry the plant"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "suspensionofdisbelief": {
+    "name": "suspensionofdisbelief",
+    "route": "Calculester (+ Miranda)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Frame him by putting some random jewels you stole in his bag"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Calculester, theater is about fiction and the suspension of disbelief"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "plantlifeexperience": {
+    "name": "plantlifeexperience",
+    "route": "Calculester",
+    "type": "-",
+    "options": [
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Let's get this plant pregnant!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "pcfamilyissues": {
+    "name": "pcfamilyissues",
+    "route": "Calculester",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Install the SupportiveParent.v3 firmware update"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Just unplug the CPU! No more argument!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "newdance": {
+    "name": "newdance",
+    "route": "Calculester",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "MONEY",
+        "hint": "Bribe Vera to take us into the heart of voguing!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Convince Liam to return to his K-Pop phase"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "repairhim": {
+    "name": "repairhim",
+    "route": "Calculester",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Ask desperately if there’s a doctor in the gym!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "stylizehim": {
+    "name": "stylizehim",
+    "route": "Calculester",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Real sexiness is 90% posture"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "True beauty is on the inside"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "paidinexposure": {
+    "name": "paidinexposure",
+    "route": "Zoe (+ Leonard)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Why don’t you pay with one of your kidneys?"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Why not pay with your future?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "minoritybenefits": {
+    "name": "minoritybenefits",
+    "route": "Zoe (+ Leonard)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Why not resurrect four great artists and ask their opinions?"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Use the CalArts sorting hat to determine the objective value"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "interdimensionalweddingz": {
+    "name": "InterdimensionalWeddingZ",
+    "route": "Zoe (+ Prince)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Be careful! Zoe has eaten every one of her spouse’s minds!!!"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Why get married when you can bounce on this trampoline?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "toxicfandomfangirl": {
+    "name": "ToxicFandomFangirl",
+    "route": "Zoe (+ Leonard)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Distract Leonard by creating the perfect “REAL” gamer girl profile"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "There’s no wrong way to play videogames!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "toxicfandomnostalgia": {
+    "name": "ToxicFandomNostalgia",
+    "route": "Zoe (+ Leonard)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Air the same show from thirty years ago but with a new name?"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Add a hip new character to hook the target demo!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "covenzoedmitri": {
+    "name": "CovenZoeDmitri",
+    "route": "Zoe (+ Coven & Dmitri)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Let's join the coven by being like the Coven!"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "We should all LICK DMITRI'S ABS!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "cultstuff": {
+    "name": "cultstuff",
+    "route": "Zoe",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "GROSSFIT!"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Start playing this free-to-play/pay-to-win mobile game"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "drivesomeoneinsane": {
+    "name": "drivesomeoneinsane",
+    "route": "Zoe",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Bring the poor soul on a journey through Deviantart"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Force the poor soul to join your Evangelion Club 10-hour meeting"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "makejuanaloveinterest": {
+    "name": "makejuanaloveinterest",
+    "route": "Zoe",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Let's band together with all the students who have been left out"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "What if we got strangers to start drawing dozens of pictures of you?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "coachbackstory": {
+    "name": "coachbackstory",
+    "route": "Zoe (+ Coach)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Let’s replace breakfast with a more exciting morning activity"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Let’s create a hip new mascot for healthy food!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "slayerzoe": {
+    "name": "slayerzoe",
+    "route": "Zoe (+ Slayer)",
+    "type": "-",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Make an online poll to let the world decide who to kill!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "stealingbook": {
+    "name": "StealingBook",
+    "route": "Polly & Vera",
+    "type": "Follow-up event",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "There is no secret and you’re all suckers"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "You can steal organs and sell them for a ton of money"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "pastaparadise": {
+    "name": "Pastaparadise",
+    "route": "Damien & Scott",
+    "type": "Follow-up event",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Obviously you start another business next door"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "You can actually make pasta without turning griffins into it"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "tinderadventures1": {
+    "name": "TinderAdventures1",
+    "route": "Miranda",
+    "type": "Follow-up event",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "You should go with, ‘hey.’"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "See his bet and raise it with a more refined, ‘Hey.’"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "troublewithtygr": {
+    "name": "TroublewithTygr",
+    "route": "Liam & Polly & Vera?",
+    "type": "Follow-up event",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "For every tiger in the school, release three anteaters"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Have Coach talk to them!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "univerticajunior": {
+    "name": "UniverticaJunior",
+    "route": "Damien & Polly (+ Coven)",
+    "type": "Follow-up event",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Take this opportunity to reveal your REAL plan"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "You and Univertica Junior are siblings!!!!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "interdimensionalbachelor2": {
+    "name": "InterdimensionalBachelor2",
+    "route": "Damien & Scott(+ Prince & Wolfpack)",
+    "type": "Follow-up event",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Sign the name of Tyrelliott the Terrible"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "EAT THE CONTRACT"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "socialjusticereturn": {
+    "name": "SocialJusticeReturn",
+    "route": "Liam & Scott",
+    "type": "Follow-up event",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Make our own version of the magazine"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Storm MONSTER magazine"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "veralegalopen": {
+    "name": "VeraLegalOpen",
+    "route": "Polly & Vera (+ Prince)",
+    "type": "Follow-up event",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "It’s not an actual marriage!"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "The marriage is null and void!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "artballreturns2": {
+    "name": "ArtballReturns2",
+    "route": "Liam & Miranda",
+    "type": "Follow-up event",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Turn the paintbrushes everyone’s holding into live cobras"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Summon the undead Vincent van Ghoul!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "damienmatchingtattoos": {
+    "name": "DamienMatchingTattoos",
+    "route": "Damien",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "An on-fire pentagram"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "A sea cucumber"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "damienradcrimedate": {
+    "name": "DamienRadCrimeDate",
+    "route": "Damien",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Tax fraud and light treason"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Dinner and a movie"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "singotohell": {
+    "name": "SinGoToHell",
+    "route": "Damien",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Oh, I think I’m already damned"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Run over a bunch of nuns with a lawnmower"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "trendiestclub": {
+    "name": "TrendiestClub",
+    "route": "Liam",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "“*”"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "The earth’s core"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "notadate": {
+    "name": "NotADate",
+    "route": "Liam",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "It’s not a date, it’s a “date”"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "It’s a performance art"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "showyourfeelings": {
+    "name": "showyourfeelings",
+    "route": "Liam",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Sing your feelings!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "SHOW LIAM YOUR FEELINGS"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "mmplan": {
+    "name": "MMplan",
+    "route": "Miranda",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "A purge of your political opponents"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Let’s hire peasants to sing your story"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "mirandahorserace": {
+    "name": "MIRANDAHORSERACE",
+    "route": "Miranda",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "The only way to tell a winning seahorse is by taste!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Get me a saddle and let’s enter the race!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "mirandafancydinner": {
+    "name": "MirandaFancyDinner",
+    "route": "Miranda",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "It doesn’t matter what I order"
+      },
+      {
+        "option": 2,
+        "stat": "MONEY",
+        "hint": "One of everything! And I’m buying!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "casinonight": {
+    "name": "CasinoNight",
+    "route": "Polly",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Bet it all… on red"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Literally bet your life"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "crashparty": {
+    "name": "CrashParty",
+    "route": "Polly",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "EXTRA BABIES"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Literally crash into the party"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "matchtattoopolly": {
+    "name": "MatchTattooPolly",
+    "route": "Polly",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "The entire text of the Necronomicon!"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Knuckle tats!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "cheerscott": {
+    "name": "CheerScott",
+    "route": "Scott",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Pick the other cheerleaders up and juggle them"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Dress up like the full moon"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "cheerleadingdate": {
+    "name": "CheerleadingDate",
+    "route": "Scott",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "We should cheer for the working class!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "We should cheer for each other"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "romanticworkout": {
+    "name": "RomanticWorkout",
+    "route": "Scott",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "French squats"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Naked basketball"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "dategift": {
+    "name": "DateGift",
+    "route": "Vera",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "MONEY",
+        "hint": "A magic mirror"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "The head of her greatest enemy"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "stockmarket": {
+    "name": "StockMarket",
+    "route": "Vera",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Buy one of everything!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "All we need is each other!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "veranetworkingevent": {
+    "name": "VeraNetworkingEvent",
+    "route": "Vera",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Trade Pokeman cards"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Convince the businesspeople you have a rare disease"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "meetthepcfamily": {
+    "name": "meetthepcfamily",
+    "route": "Calculester",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Offer to defragment their hard drives for them"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Learn binary, so you can converse with them in their native tongue"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "monsterconditiondate": {
+    "name": "monsterconditiondate",
+    "route": "Calculester",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Let's read Heidegger's complete works"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Let's go to the hospital and watch people give birth!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "couplescosplay": {
+    "name": "couplescosplay",
+    "route": "Zoe",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "The unbearable feeling of void"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Naruto and Garfield"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "voidpicnic": {
+    "name": "voidpicnic",
+    "route": "Zoe",
+    "type": "Date",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "All food well-known for being good for your brain"
+      },
+      {
+        "option": 2,
+        "stat": "MONEY",
+        "hint": "Purchase a foil anti-void hat"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "punchthesun2": {
+    "name": "PunchtheSun2",
+    "route": "Damien",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Go to that most authoritative of all resources-- WikiHow!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Just check out the school spaceship!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "punchthesun3": {
+    "name": "PunchtheSun3",
+    "route": "Damien (+ Coven)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Your mission is part of an ancient and righteous quest"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "THE SUN WAS THE BIG BAD ALL ALONG!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "punchthesun4": {
+    "name": "PunchtheSun4",
+    "route": "Damien",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "To punch the sun, you must first surrender your ego"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Nothing beats the element of surprise!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "damienfight1": {
+    "name": "DamienFight1",
+    "route": "Damien",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Jokes on you, pal: I’m a pragmatist"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Start dancing for no reason!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "damienfight2": {
+    "name": "DamienFight2",
+    "route": "Damien",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Defend the banana’s honor"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Eat the banana"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "damienfight3": {
+    "name": "DamienFight3",
+    "route": "Damien (+ Scott & Vera)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "MONEY",
+        "hint": "Vera: I’m gonna give you a hundred bucks"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Unless some big, strong, man decides to teach me how to fight"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "hair1": {
+    "name": "Hair1",
+    "route": "Damien(+ Liam & Miranda & Polly)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "MONEY",
+        "hint": "Divert their attention by making money rain"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Turn Damien's phone into a bird"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "hair2": {
+    "name": "Hair2",
+    "route": "Damien(+ Liam & Miranda & Polly)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Get so angry you end up unleashing a new level of stylism"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Build a rivalrous frenemy relationship"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "hair3": {
+    "name": "Hair3",
+    "route": "Damien(+ Liam & Miranda & Polly)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Practice the art of stealth makeover!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Change your scissors for a dagger and your makeup for blood"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "yaoiartist1": {
+    "name": "Yaoiartist1",
+    "route": "Liam",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Yaoi is all about tenderness"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Draw me like one of your French girls"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "yaoiartist2": {
+    "name": "Yaoiartist2",
+    "route": "Liam",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "A cute young boy falls desperately in love..."
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Kill your darlings. Literally"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "yaoiartist3": {
+    "name": "Yaoiartist3",
+    "route": "Liam",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "It's time for me to show you the secrets of yaoi... intimately"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "You must perform a ceremonial sacrifice to the Japanese deities"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "makeliampopular1": {
+    "name": "MakeLiamPopular1",
+    "route": "Liam (+ Miranda)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Use his account to post a bunch of porn and bomb recipes"
+      },
+      {
+        "option": 2,
+        "stat": "MONEY",
+        "hint": "Pay a million homeless people to follow Liam on Instagram"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "makeliampopular2": {
+    "name": "MakeLiamPopular2",
+    "route": "Liam (+ Miranda)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "I'll dress up as Liam and give the best campaign speech"
+      },
+      {
+        "option": 2,
+        "stat": "MONEY",
+        "hint": "Pay a million people to vote for Liam for Prom King"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "makeliampopular3": {
+    "name": "MakeLiamPopular3",
+    "route": "Liam (+ Miranda)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Race to the airport to confess your feelings"
+      },
+      {
+        "option": 2,
+        "stat": "MONEY",
+        "hint": "Pay a million people to spell out \"I'M SORRY\""
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "agenda1": {
+    "name": "Agenda1",
+    "route": "Miranda",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Toppings! Caviar, eel, chocolate-covered sandcrabs"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "An elegant, stencilled card with your sincerest apologies"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "agenda2": {
+    "name": "Agenda2",
+    "route": "Miranda",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Stick a web of flies outside the Principal’s office"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Burst into tears. Spiders hate tears"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "agenda3": {
+    "name": "Agenda3",
+    "route": "Miranda",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "MONEY",
+        "hint": "Hire Scuber, the underwater taxi service, to deliver the letter for you"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Dynamite the toilet, dive into the sewer, and swim there yourself!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "throne1": {
+    "name": "Throne1",
+    "route": "Miranda",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Let’s convince everyone she likes humans"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Fart joke"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "throne2": {
+    "name": "Throne2",
+    "route": "Miranda",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Umm. Do nothing?"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "We need a diversion. Release the Kraken!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "throne3": {
+    "name": "Throne3",
+    "route": "Miranda",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "No more talk. We. Bring. War!"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "I will build a monument to you, your highness"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "bestpartyever1": {
+    "name": "BestPartyEver1",
+    "route": "Polly",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Spike the punch with mandrake root"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Okay, you go as a sexy tax attorney. I’ll go as a sexy tax EVADER"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "bestpartyever2": {
+    "name": "BestPartyEver2",
+    "route": "Polly",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "The electric slide… but with actual electricity"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "CHEMISTRY"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "bestpartyever3": {
+    "name": "BestPartyEver3",
+    "route": "Polly",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Possess the body of the deceased, bringing him back for one last party!"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Bouncy castle"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "wilkinson1": {
+    "name": "Wilkinson1",
+    "route": "Polly",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "I've... done that one loads of times! Just name a time and a place"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Throw a smoke bomb and escape while leaving a replica of yourself"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "wilkinson2": {
+    "name": "Wilkinson2",
+    "route": "Polly (+ Coven)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "You need to come up with unexpected search terms"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Use your people skills"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "wilkinson3": {
+    "name": "Wilkinson3",
+    "route": "Polly (+ Liam)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "MONEY",
+        "hint": "Use your sweet negotiation skills"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Blackmail him!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "coke1": {
+    "name": "Coke1",
+    "route": "Scott (+ Wolfpack)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Give him some lavender-scented cocaine"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "GIVE HIM A FLASHY FIDGET SPINNER"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "coke2": {
+    "name": "coke2",
+    "route": "Scott",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Spike the punch with coke on prom night!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "All we gotta do is convince Coach that cocaine is a good thing!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "cokepunch": {
+    "name": "CokePunch",
+    "route": "Scott",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Suggesting the prom punch could use a bit more cocaine"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Seducing Abercrombie McGizz, the cafeteria troll in charge of the punch"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "cokecoach": {
+    "name": "CokeCoach",
+    "route": "Scott (+ Coach)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Coke is great for sport! Here, try some!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "If coke is so wrong, why am I snorting so much of it right here in front of you?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "scottfurryking1": {
+    "name": "ScottFurryKing1",
+    "route": "Scott",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Scott, a good king is a strong ruler -- physically strong!!!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "True royalty has been inside you all along"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "scottfurryking2": {
+    "name": "ScottFurryKing2",
+    "route": "Scott (+ Miranda & Vera)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "MONEY",
+        "hint": "What if you paid taxes to them?!"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Flag time! You can’t rule a kingdom with no flag"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "scottfurryking3": {
+    "name": "ScottFurryKing3",
+    "route": "Scott",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Talking furry forest creatures shed their heads!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "That panda must have been a cursed prince"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "bloodyqueen1": {
+    "name": "BLOODYQUEEN1",
+    "route": "Vera",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Why don't we ask the Coven?"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Literally just search the internet?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "bloodyqueen2": {
+    "name": "BLOODYQUEEN2",
+    "route": "Vera",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Because it's for Animal Abuse III"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Because this goat is a spy from a rival institution"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "bloodyqueen3": {
+    "name": "BLOODYQUEEN3",
+    "route": "Vera (+ Coven)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "No, no, Coven, you've misunderstood"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Make replicas of the earrings, find out where the Coven lives..."
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "crimequeen1": {
+    "name": "CrimeQueen1",
+    "route": "Vera",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Be the only service that offers free range organic murders"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Viral marketing. Literally"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "crimequeen2": {
+    "name": "CrimeQueen2",
+    "route": "Vera",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Quit crime. They'll come crawling back once they see how bad it is without you"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Write a song about it. I'll help!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "crimequeen3": {
+    "name": "CrimeQueen3",
+    "route": "Vera",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Confess your feelings!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Kiss Larry the Croc on his big crocodile mouth!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "vr1": {
+    "name": "VR1",
+    "route": "Calculester",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Bad artists copy. Good artists steal"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "You just need to spruce up the originals a bit!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "vr2": {
+    "name": "VR2",
+    "route": "Calculester",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Involve your highest rank worshippers in a controversial scandal with minors"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Produce a little grumpy Nietzsche"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "vr3": {
+    "name": "VR3",
+    "route": "Calculester",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Send all your most suspicious citizens to an even MORE virtual reality"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "They have no mindless diversions to distract them"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "calcareers1": {
+    "name": "Calcareers1",
+    "route": "Calculester(+ Damien & Scott)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "But have we asked the orange how it feels?"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Eat the orange"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "calcareers2": {
+    "name": "Calcareers2",
+    "route": "Calculester(+ Liam & Miranda)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "What’s the origin of this rivalry?"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Sure, art might be about Miranda. But what’s Miranda about?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "calcareers3": {
+    "name": "Calcareers3",
+    "route": "Calculester (+ Polly & Vera)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "You can get lost by focusing too much"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "There is an added pleasure to enjoying something that took effort"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "prophet1": {
+    "name": "Prophet1",
+    "route": "Zoe(+ Cultists)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Sacrifice another goat, but write \"We're Sorry\" on the side"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Sacrifice...your own harmful prejudices!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "prophet2": {
+    "name": "Prophet2",
+    "route": "Zoe(+ Cultists)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "You need to learn to think like your mistress"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "The title of Grandmaster should go to whoever can compose the best theme song"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "prophet3": {
+    "name": "Prophet3",
+    "route": "Zoe(+ Cultists)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "A classic cult suicide"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "The most powerful bonding ritual ever: A CUTE SLUMBER PARTY!!!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "zoeidentity1": {
+    "name": "ZoeIdentity1",
+    "route": "Zoe (+ Polly & Scott & Leonard)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "You only buy your videogames once their prices have CHANGED"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "I challenge you to a Pokeman duel in order to change your mind!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "zoeidentity2": {
+    "name": "ZoeIdentity2",
+    "route": "Zoe (+ Vera & Wolfpack)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "You sometimes aren't born in a way you truly feel like yourself"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Produce a blockbuster that unexpectedly serves as a metaphor"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "zoeidentity3": {
+    "name": "ZoeIdentity3",
+    "route": "Zoe (+ Cultists & Damien)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Don't let this puny tentacled mortal girl deceive you!"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Introduce them to K-pop"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "orgy1": {
+    "name": "Orgy1",
+    "route": "Liam & Polly",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "What about an orgy... but afterwards an intense chess tournament"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Just start chanting: 'ORGY! ORGY! ORGY! ORGY! ORGY!'"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "orgy2": {
+    "name": "Orgy2",
+    "route": "Liam & Polly(+ Damien & Scott)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "You can study this book"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Wear fancy hats"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "orgy3": {
+    "name": "Orgy3",
+    "route": "Liam & Polly (+ Miranda)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Invite all of them too!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Put them at ease by letting them come as orgy chaperones"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "orgy4": {
+    "name": "Orgy4",
+    "route": "Liam & Polly (+ Vera)",
+    "type": "Secret Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "An orgy is about networking! Look all the people who are coming..."
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "This notebook shows our super weird out-of-the-box ideas"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "angelblood1": {
+    "name": "AngelBlood1",
+    "route": "Joy (Coven) (+ Polly & Vera)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Maybe we can bargain with the Coven?"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "The most powerful drug of all is the friends we make along the way!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "angelblood2": {
+    "name": "AngelBlood2",
+    "route": "Joy (Coven)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Seduce Dmitri into being your opponent-ally"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "The Coven's ability to care isn't their weakness; it's their STRENGTH"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "angelblood3": {
+    "name": "AngelBlood3",
+    "route": "Joy (Coven)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Sob over Joy's corpse... so she revives!"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Selflessly use that magic Orb of Healing +4"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "blanket1": {
+    "name": "blanket1",
+    "route": "None (+ Liam & Miranda & Scott)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Basic ghost knowledge: ghosts' main power is levitating stuff"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Ultimate ghost prank: haunt someone into despair"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "blanket2": {
+    "name": "blanket2",
+    "route": "None (+ Damien & Liam & Miranda & Prince)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "...Boo!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Throw a rock at the Interdimensional Prince"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "blanket3": {
+    "name": "blanket3",
+    "route": "None (+ Liam & Polly)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "I was offered as a sacrifice... TO THE GOD OF PARTYYYYYYY!!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "I only tell how I died on the third date, boo. GHOST WINK!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "blobert1": {
+    "name": "Blobert1",
+    "route": "Blobert (+ Polly & Scott)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "A card that says 'Sorry you died in an accident'"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "A card that says 'World's Sexiest 8-Legged Principal!'"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "blobert2": {
+    "name": "Blobert2",
+    "route": "Blobert (+ Prince & Vera & Wolfpack)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Hand the prince one that says: ..."
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "*fold card along dotted line to make paper airplanes*"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "blobert3": {
+    "name": "Blobert3",
+    "route": "Blobert (+ Damien & Liam & Slayer)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "I'm sorry about your missing brother"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Gurl, those boots were made for ROCKIN'!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "corpse1": {
+    "name": "Corpse1",
+    "route": "None (+ Damien & Liam& Polly & Vera)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Quick, put the corpse on your head!"
+      },
+      {
+        "option": 2,
+        "stat": "MONEY",
+        "hint": "Shallow social creatures respond only to status"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "corpse2": {
+    "name": "Corpse2",
+    "route": "None (+ Scott)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "The only way to subdue a Vogue journalist is by out-journalising them"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Kill his family and send him their severed heads as a warning"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "corpse3": {
+    "name": "Corpse3",
+    "route": "None (+ Prince & Slayer & Wolfpack)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Your corpse doesn't need a knight(ess) in shining armour to protect it"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "LOVE IS ALWAYS THE ANSWER! WINK!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "cultring1": {
+    "name": "CultRing1",
+    "route": "Vera (+ Liam)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "No way, the truth will always prevail!"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "I had to eat my entire body and replace it with an exact replica of myself"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "cultring2": {
+    "name": "Cultring2",
+    "route": "Vera (+ Damien& Liam & Scott)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "The bonds of friendship that we all share"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "The fact that I can now turn into a dinosaur whenever I want"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "cultring3": {
+    "name": "Cultring3",
+    "route": "Vera (+ Liam & Miranda & Polly)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Subliminal messages in cereal advertisements"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Secretly declare everyone a member of the cult!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "cultring4": {
+    "name": "CultRing4",
+    "route": "Vera (+ Liam)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "MONEY",
+        "hint": "Draw a pentagram on the floor and place a fat stack of money in the center"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Why don't you ask... Vera!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "darkgod1": {
+    "name": "DarkGod1",
+    "route": "Z'gord (Zoe)(+ Miranda & Polly)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Start a giant sacrificial bonfire... of weed"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Be self-sacrificing: sacrifice yourself!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "darkgod2": {
+    "name": "DarkGod2",
+    "route": "Z'gord (Zoe)(+ Coven & Miranda & Polly)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Swallow the totem whole and keep it safe in your belly!"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Use sleight of hand to make the totem DISAPPEAR"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "darkgod3": {
+    "name": "DarkGod3",
+    "route": "Z'gord (Zoe)(+ Miranda & Polly)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "FIGHT THE DARK DEITY!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Ask the Dark Deity to Monster Prom!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "dragonheat1": {
+    "name": "DragonHeat1",
+    "route": "None (+ Polly & Vera)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Easy: the 'Sexcalibur' arc"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "What about... this exclusive chapter I've written myself?!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "dragonheat2": {
+    "name": "DragonHeat2",
+    "route": "None (+ Damien & Miranda)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "True art imitates life. Let's look at Damien's Tinder messages"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Harold may or may not be a scoundrel, but love is alive and well!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "dragonheat3": {
+    "name": "DragonHeat3",
+    "route": "None (+ Liam & Scott)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Let's ask them nicely if they can stop behaving like internet trolls"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Let's write a powerful fanfic set on the Dragon Heat wiki"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "floppy1": {
+    "name": "Floppy1",
+    "route": "Calculester(+ Damien & Scott)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "HACK THE VIRUS!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "STRIKE A FABULOUS TEAM POSE TO INTIMIDATE THE VIRUS!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "floppy2": {
+    "name": "Floppy2",
+    "route": "Calculester (+ Damien& Liam & Scott)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "If he was really a computer... why would he be wearing that cool hat?"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Calculester IS a robot... as we all are"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "floppy3": {
+    "name": "Floppy3",
+    "route": "Calculester (+ Damien& Liam & Miranda& Polly & Scott)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "I feel alive when doing something crazy outside my comfort zone"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "I feel alive when drinking this magic drink I made"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "floppy4": {
+    "name": "Floppy4",
+    "route": "Calculester (+ Wolfpack)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Pretend to be a disguised robot yourself..."
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Protect Calculester through the power of a heartfelt speech"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "ghoststory1": {
+    "name": "GhostStory1",
+    "route": "Polly (+ Coven)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Polly, you deserve othing less than pure, unadulterated spirit!"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Always stay hydrated!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "ghoststory2": {
+    "name": "GhostStory2",
+    "route": "Polly(+ Coven & Vera)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "In these situations, there's always a pale, creepy kid who talks to ghosts"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Use a Ouija board… to call her mom"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "ghoststory3": {
+    "name": "GhostStory3",
+    "route": "Polly (+ Coven)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Go ahead and just tell her you do want to understand her"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Start by making her see you understand that you were wrong to judge her"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "icequeen1": {
+    "name": "IceQueen1",
+    "route": "Vera (+ Polly)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "MAKE THE TEACHER REMEMBER THE SPIRIT OF THE SIXTIES!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Abduct the teacher and force-feed him anime"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "icequeen2": {
+    "name": "IceQueen2",
+    "route": "Vera(+ Damien & Scott)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Snake hair grooming"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "She loves death threats, so maybe you can become death threat pen pals?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "icequeen3": {
+    "name": "IceQueen3",
+    "route": "Vera (+ Valerie)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Bring a delicious dinner made with love"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Slay your audition to become part of Cats, the musical"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "kale1": {
+    "name": "Kale1",
+    "route": "Kale(+ Damien & Scott)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Disguise yourself as a sexy GameBoy"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Show off the Dylan Rupert you've strategically bred"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "kale2": {
+    "name": "Kale2",
+    "route": "Kale (+ Polly)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "The taste buds of a true marijuana sommelier"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "The hands of a true joint origami artist"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "kale3": {
+    "name": "Kale3",
+    "route": "Kale (+ Coach)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Go to the police. Convince them this is an emergency"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Consult a plant biologist with expertise on whatever Kale's plant species is"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "prankmasterzbig1": {
+    "name": "prankmasterzbig1",
+    "route": "Polly & Scott",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Fake a serious illness that requires a kidney transplant"
+      },
+      {
+        "option": 2,
+        "stat": "MONEY",
+        "hint": "Buy one from the Angel Kidney Store"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "prankmasterzbig2": {
+    "name": "prankmasterzbig2",
+    "route": "Polly & Scott",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Oh, this? No, this is a family relic that has been passed down for generations"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Do you really want to be… left out?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "prankmasterzbig3": {
+    "name": "prankmasterzbig3",
+    "route": "Polly & Scott",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Seems like it’s a connectivity problem"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "You’re not an expert at interdimensional antics"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "startkicker1": {
+    "name": "Startkicker1",
+    "route": "Miranda & Scott(+ Liam)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Exclusive beta access to lemonade"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "A body pillow of a sexy glass of lemonade"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "startkicker2": {
+    "name": "Startkicker2",
+    "route": "Miranda & Scott",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Convince an internet celebrity to voice the lemonade... whatever that means"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Make the lemonade the center of the latest internet controversy"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "startkicker3": {
+    "name": "Startkicker3",
+    "route": "Miranda & Scott",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "An exciting sequel for your lemonade: a new flavor!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "One of the backers gets to be a character IN the Lemonade!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "caganer1": {
+    "name": "caganer1",
+    "route": "Damien & Liam",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Catch a real shitter and interrogate them about it"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Get into the mind of the shitter by re-enacting the scene"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "caganer2": {
+    "name": "caganer2",
+    "route": "Damien & Liam",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Go to Belen and check all the security cameras"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Go to Belen and collect all shits in the vicinity"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "caganer3": {
+    "name": "caganer3",
+    "route": "Damien & Liam",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Divert attention from the mystery behind the 'Caganer'"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Use all the resources of the Catholic Church"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "eel1": {
+    "name": "eel1",
+    "route": "Miranda(+ Pheel the Eel)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "You can't have drinks at your party..."
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Nowadays cool kidz only drink the latest, trendiest, poison antidote"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "eel2": {
+    "name": "eel2",
+    "route": "Miranda(+ Pheel the Eel)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "The Security Game! If you murder someone, you lose!"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "You are looking for a game that serves as the opium of the people"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "eel3": {
+    "name": "eel3",
+    "route": "Miranda(+ Pheel the Eel)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Very convincing progaganda in favor of royalty"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "The assassin's grandma, in order to scold him about committing regicide"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "sparents1": {
+    "name": "SParents1",
+    "route": "Scott(+ Vera & Wolfpack)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Starting a disucssion on the history and development of jazz"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Making a silly face!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "sparents2": {
+    "name": "SParents2",
+    "route": "Scott (+ Vera)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Convince the proprietors that you're a time traveler from the future"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Act like an entitled piece of shit until they give you a free pizza"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "sparents3": {
+    "name": "SParents3",
+    "route": "Scott (+ Coach & Vera)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Explain some people have a hard time putting their emotions into words"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Pin a ribbon on the potato sack that says, 'I'm proud of you, Scott.\""
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "vgift1": {
+    "name": "VGift1",
+    "route": "Valerie",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Disassemble the bear to make its true nature less obvious"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Travel to Nepal to study the secret arts of the gift-giving monks"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "vgift2": {
+    "name": "VGift2",
+    "route": "Valerie",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "A lore coupon"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "The pizza one"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "vgift3": {
+    "name": "VGift3",
+    "route": "Valerie",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "I can tell you that the best way to get inside Blobert's head is to dress like him"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Hire a retired FBI agent to secretly analyze Bolbert's body language"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "vgift4": {
+    "name": "VGift4",
+    "route": "Valerie (+ Vera)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "A course in optical physics"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "A full e-commerce website built using your sick web design skills"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "bellanda1": {
+    "name": "Bellanda1",
+    "route": "Miranda (+ Bellanda)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Miranda Vanderbilt, of the very nice hair"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Miranda Vanderbilt, of the commanding voice"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "bellanda2": {
+    "name": "Bellanda2",
+    "route": "Miranda (+ Dahlia)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Miranda, just make cute eyes! VERY CUTE EYES!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Miranda, fight that plank with the inner power... OF THIS CHAINSAW!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "bellanda3": {
+    "name": "Bellanda3",
+    "route": "Miranda (+ Bellanda)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "People that are... not millionaires!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "THE AIRPEOPLEEEEEEEEE"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "biglove1": {
+    "name": "BigLove1",
+    "route": "Dmitri & Prince",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Convince the Prince that joining the Dark Side would be like... marrying the night!"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Explain to Dmitri the Prince is a better suitor for the Dark Side"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "biglove2": {
+    "name": "BigLove2",
+    "route": "Dmitri & Prince(+ Polly& Vera)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "RULE 1: Playing sexually with other people is OK"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "RULE 1: Never make your relationship follow rules dictated by a semi-stranger"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "biglove3": {
+    "name": "BigLove3",
+    "route": "Dmitri & Prince(+ Damien& Polly)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "MONEY",
+        "hint": "STRIPPERS! But the strippers should cater to the tastes of these bizarre grooms"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "They should act as strippers crashing other bachelor parties"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "dahliabp1": {
+    "name": "DahliaBP1",
+    "route": "Dahlia (+ Liam & Scott)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Every team needs motivation, and an army is just another kind of team!"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Read Swedish poetry to them"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "dahliabp2": {
+    "name": "DahliaBP2",
+    "route": "Dahlia(+ Calculester & Vera)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Build a very powerful bomb and then disguise it with a wig"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Hire Dante Alighieri as your Hell Consultant"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "dahliabp3": {
+    "name": "DahliaBP3",
+    "route": "Dahlia(+ Miranda & Zoe)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Fight gentrification by strictly regulating new condo developments"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Free WiFi!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "fellowstudent1": {
+    "name": "FellowStudent1",
+    "route": "Fellow Student(+ Scott & Vera)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "My Insta feed just told me that \"snitching\" is last week's challenge!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Choosing a favourite crime wouldn't be fair to all the great crimes Vera's done!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "fellowstudent2": {
+    "name": "FellowStudent2",
+    "route": "Fellow Student(+ Liam & Polly& Zoe)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "You've got to be blamed for ruining an industry that was becoming obsolete"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "A job so hard to explain that not even YOU are sure why you're getting paid"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "fellowstudent3": {
+    "name": "FellowStudent3",
+    "route": "Fellow Student(+ Calculester& Damien& Scott)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "It's to treat a wound! This wound! (Then stab Damien.)"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "We're just trying to support the local liquor store owner through hard times"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "fellowstudent4": {
+    "name": "FellowStudent4",
+    "route": "Fellow Student(+ Scott & Vera)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "You look too good in that baseball cap just to give up on it now!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Remember all the good moments we shared over summer camp!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "fourthwall1": {
+    "name": "Fourthwall1",
+    "route": "Liam & Polly & Scott",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Lets walk to the limits of reality, and then walk some more!"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "Turn off the game"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "fourthwall2": {
+    "name": "Fourthwall2",
+    "route": "Liam & Polly & Scott",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Okay, Liam, we'll leave you alone. All you have to do is raise your right hand"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "hint": "It's true, I swear! You can see it all at monsterprom.pizza!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "fourthwall3": {
+    "name": "Fourthwall3",
+    "route": "Liam & Polly & Scott",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Maybe there's a secret way out. Have you tried looking behind you?"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "We need help from someone ... from the outside!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "hopefaith": {
+    "name": "HopeFaith",
+    "route": "Faith & Hope (Coven) (+ Dmitri)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Faith"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Hope"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "faith1": {
+    "name": "Faith1",
+    "route": "Faith (Coven)(+ Polly & Scott)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "I like how their feet are so...foot-y"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "I LIKE THE FACT THAT THEY ARE 17 FEET TALL (probably?)"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "faith2": {
+    "name": "Faith2",
+    "route": "Faith (Coven)(+ Evil Faith)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "We should have a super secret handshake!"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "You're everything but the same!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "faith3": {
+    "name": "Faith3",
+    "route": "Faith (Coven)(+ Evil Faith & Polly)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Let's gamble! If I throw these dice and get a double six, you leave us alone"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Evil Faith's plot to murder Faith might just be her way of asking for a hug!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "hope1": {
+    "name": "Hope1",
+    "route": "Hope (Coven)(+ Damien)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Create a device to enhance your telepathic powers"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Start a feud between FedEx and Amazon so they destroy each other"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "hope2": {
+    "name": "Hope2",
+    "route": "Hope (Coven)(+ Coven & Liam)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Hope never defeated Amazon... she was Jeff Bezos all along!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Hope is not the real Hope!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "hope3": {
+    "name": "Hope3",
+    "route": "Hope (Coven)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "hint": "Let's go to Thailand together on a spiritual journey full of deep introspection"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "Channel their spirits.... by making a Whatsapp Group"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "slayerbp1": {
+    "name": "slayerbp1",
+    "route": "Slayer (+ Fairy)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "A compliement caster!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "A ranger! But like a ranger who's super nice and cares about your friends"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "slayerbp2": {
+    "name": "slayerbp2",
+    "route": "Slayer (+ Fairy)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Let's journey to the depths of Lof-Yars-Elf"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "We shall battle Relaxas, Knight of the Order of Yoga!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "slayerbp3": {
+    "name": "slayerbp3",
+    "route": "Slayer (+ Fairy)",
+    "type": "Item Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "hint": "Toss Aaravi the Legendary Garmagorian Axe of Introspection!"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "Convince Aaravi to suplex the owlbear. Suplexes are like the hugs of wrestling!"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "valerie1": {
+    "name": "Valerie1",
+    "route": "Valerie(+ Slayer)",
+    "type": "Misc Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "MONEY",
+        "hint": "ULTIMATE TECHNIQUE: OUTSOURCING! Call the best tech engineer you can pay"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "DIY! This sword is our canvas and some duct tape will be your brush"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "valerie2": {
+    "name": "Valerie2",
+    "route": "Valerie(+ Coven)",
+    "type": "Misc Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "MONEY",
+        "hint": "Go transmedia by investing in toys and videogames about the Coven"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "hint": "The ultimate way to dodge any cancellation is to convince Netflix to acquire you"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "valerie3": {
+    "name": "Valerie3",
+    "route": "Valerie(+ Prince)",
+    "type": "Misc Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Share a pic of Valerie's abduction on Instagram to alert everyone"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Start a fire"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "narrator2": {
+    "name": "Narrator2",
+    "route": "Narrator (+ Damien& Miranda & Scott)",
+    "type": "Misc Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "hint": "Let's launch a line of talking Narrator dolls"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "The Narrator is just like us... which basically means anyone can do his job"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "narrator3": {
+    "name": "Narrator3",
+    "route": "Narrator (+ Polly& Scott & Zoe)",
+    "type": "Misc Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "Always remember, WWDD: What Would Dostoyevsky Do?"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "hint": "Consider ... sound effects"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "narrator4": {
+    "name": "Narrator4",
+    "route": "Narrator",
+    "type": "Misc Ending",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "hint": "But you've never been to Monster Prom!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "hint": "But what about ... sex?"
+      }
+    ],
+    "source": "steam_guide"
+  },
+  "63915822887211": {
+    "name": "63915822887211",
+    "route": null,
+    "type": "workshop_mod",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "hint": "Charm"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "hint": "Bold"
+      }
+    ],
+    "source": "C:\\Users\\matti\\AppData\\LocalLow\\Beautiful Glitch\\Monster Prom\\Mods\\63915822887211\\events.tsv"
+  }
+}

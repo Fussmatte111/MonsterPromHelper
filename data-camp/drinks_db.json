@@ -1,0 +1,686 @@
+{
+  "flask_genie": {
+    "name": "Flask Genie",
+    "effect": "Plotline Unlocked: Secret ending for current Love Interest",
+    "misc": "6 total plotlines",
+    "source": "camp_spreadsheet"
+  },
+  "flask genie": {
+    "name": "Flask Genie",
+    "effect": "Plotline Unlocked: Secret ending for current Love Interest",
+    "misc": "6 total plotlines",
+    "source": "camp_spreadsheet"
+  },
+  "blender_smoothie": {
+    "name": "Blender Smoothie",
+    "effect": "Plotline Unlocked: Appliance Time",
+    "misc": "Negates all other endings in the run",
+    "source": "camp_spreadsheet"
+  },
+  "blender smoothie": {
+    "name": "Blender Smoothie",
+    "effect": "Plotline Unlocked: Appliance Time",
+    "misc": "Negates all other endings in the run",
+    "source": "camp_spreadsheet"
+  },
+  "molotov_cocktail": {
+    "name": "Molotov Cocktail",
+    "effect": "Plotline Unlocked: No More Chancellor",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "molotov cocktail": {
+    "name": "Molotov Cocktail",
+    "effect": "Plotline Unlocked: No More Chancellor",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "sacred_blood": {
+    "name": "Sacred Blood",
+    "effect": "Plotline Unlocked: Family Reunion",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "sacred blood": {
+    "name": "Sacred Blood",
+    "effect": "Plotline Unlocked: Family Reunion",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "a_glass_of_curse": {
+    "name": "A Glass of Curse",
+    "effect": "Plotline Unlocked: Reality TV",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "a glass of curse": {
+    "name": "A Glass of Curse",
+    "effect": "Plotline Unlocked: Reality TV",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "doom_perignon": {
+    "name": "Doom Perignon",
+    "effect": "Plotline Unlocked: Who Killed Cool Josh?",
+    "misc": "Every choice results in new background",
+    "source": "camp_spreadsheet"
+  },
+  "doom perignon": {
+    "name": "Doom Perignon",
+    "effect": "Plotline Unlocked: Who Killed Cool Josh?",
+    "misc": "Every choice results in new background",
+    "source": "camp_spreadsheet"
+  },
+  "the_best": {
+    "name": "The Best",
+    "effect": "Plotline Unlocked: Character Growth",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the best": {
+    "name": "The Best",
+    "effect": "Plotline Unlocked: Character Growth",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "pizza": {
+    "name": "Pizza",
+    "effect": "Plotline Unlocked: Pizza Delivery Service",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the_darkest_timeline": {
+    "name": "The Darkest Timeline",
+    "effect": "Plotline Unlocked: Worst Timeline",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the darkest timeline": {
+    "name": "The Darkest Timeline",
+    "effect": "Plotline Unlocked: Worst Timeline",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "cursed_bearew": {
+    "name": "Cursed Bearew",
+    "effect": "Player turns into a bear for the rest of the game",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "cursed bearew": {
+    "name": "Cursed Bearew",
+    "effect": "Player turns into a bear for the rest of the game",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "love_potion_no_9": {
+    "name": "Love Potion no.9",
+    "effect": "+ points with current Love Interest",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "love potion no.9": {
+    "name": "Love Potion no.9",
+    "effect": "+ points with current Love Interest",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "phobia_shots": {
+    "name": "Phobia Shots",
+    "effect": "+ 5 BOLDNESS",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "phobia shots": {
+    "name": "Phobia Shots",
+    "effect": "+ 5 BOLDNESS",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "sangria": {
+    "name": "Sangria",
+    "effect": "+ 5 CHARM",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "imagination_shots": {
+    "name": "Imagination Shots",
+    "effect": "+ 5 CREATIVITY",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "imagination shots": {
+    "name": "Imagination Shots",
+    "effect": "+ 5 CREATIVITY",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "sex_on_the_beach": {
+    "name": "Sex on the Beach",
+    "effect": "+ 5 FUN",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "sex on the beach": {
+    "name": "Sex on the Beach",
+    "effect": "+ 5 FUN",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "maaargherita": {
+    "name": "Maaargherita",
+    "effect": "+ 5 SMARTS",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "poison": {
+    "name": "Poison",
+    "effect": "- 6 ALL STATS",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "toilet_wine": {
+    "name": "Toilet Wine",
+    "effect": "- 2 ALL STATS",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "toilet wine": {
+    "name": "Toilet Wine",
+    "effect": "- 2 ALL STATS",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "bone_hurting_juice": {
+    "name": "Bone-Hurting Juice",
+    "effect": "- 1 ALL STATS",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "bone-hurting juice": {
+    "name": "Bone-Hurting Juice",
+    "effect": "- 1 ALL STATS",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "stat_smoothie": {
+    "name": "Stat Smoothie",
+    "effect": "+ 6 ALL STATS",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "stat smoothie": {
+    "name": "Stat Smoothie",
+    "effect": "+ 6 ALL STATS",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "tequila_moonrise": {
+    "name": "Tequila Moonrise",
+    "effect": "+ 2 ALL STATS",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "tequila moonrise": {
+    "name": "Tequila Moonrise",
+    "effect": "+ 2 ALL STATS",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "hot_shot": {
+    "name": "Hot Shot",
+    "effect": "Two players recieve all of the other's highest stat",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "hot shot": {
+    "name": "Hot Shot",
+    "effect": "Two players recieve all of the other's highest stat",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "average": {
+    "name": "Average",
+    "effect": "Player's stats are averaged",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the_equalizer": {
+    "name": "The Equalizer",
+    "effect": "One stat averaged between all players",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the equalizer": {
+    "name": "The Equalizer",
+    "effect": "One stat averaged between all players",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "moskito": {
+    "name": "Moskito",
+    "effect": "Player's highest stat is distributed to their other stats",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "ab_blood": {
+    "name": "AB Blood",
+    "effect": "Take 1 of every stat from all players",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "ab blood": {
+    "name": "AB Blood",
+    "effect": "Take 1 of every stat from all players",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the_full_moon": {
+    "name": "The Full Moon",
+    "effect": "+ 1 ALL STATS to all players",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the full moon": {
+    "name": "The Full Moon",
+    "effect": "+ 1 ALL STATS to all players",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the_royale": {
+    "name": "The Royale",
+    "effect": "Make two other players swap stats",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the royale": {
+    "name": "The Royale",
+    "effect": "Make two other players swap stats",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "joe_crow": {
+    "name": "Joe Crow",
+    "effect": "Swap stats between all players",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "joe crow": {
+    "name": "Joe Crow",
+    "effect": "Swap stats between all players",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "spell_shake": {
+    "name": "Spell Shake",
+    "effect": "Swap stats with another player",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "spell shake": {
+    "name": "Spell Shake",
+    "effect": "Swap stats with another player",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "spirits": {
+    "name": "Spirits",
+    "effect": "Make two other players swap one stat",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "old_chums_champagne": {
+    "name": "Old Chums Champagne",
+    "effect": "Swap one stat with another player",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "old chums champagne": {
+    "name": "Old Chums Champagne",
+    "effect": "Swap one stat with another player",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the_double_gift": {
+    "name": "The Double Gift",
+    "effect": "Gift another player + 2 ALL STATS",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the double gift": {
+    "name": "The Double Gift",
+    "effect": "Gift another player + 2 ALL STATS",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "protein_shake": {
+    "name": "Protein Shake",
+    "effect": "Changes player stats randomly",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "protein shake": {
+    "name": "Protein Shake",
+    "effect": "Changes player stats randomly",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "sake_bomb": {
+    "name": "Sake Bomb",
+    "effect": "Changes other players' stats randomly",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "sake bomb": {
+    "name": "Sake Bomb",
+    "effect": "Changes other players' stats randomly",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "pina_skullada": {
+    "name": "Pina Skullada",
+    "effect": "Swap two stats randomly",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "pina skullada": {
+    "name": "Pina Skullada",
+    "effect": "Swap two stats randomly",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the_bargain": {
+    "name": "The Bargain",
+    "effect": "All stat effects decreased by 0.01",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the bargain": {
+    "name": "The Bargain",
+    "effect": "All stat effects decreased by 0.01",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "cosmopolitan": {
+    "name": "Cosmopolitan",
+    "effect": "x2 all stat effects",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "ectoplasm": {
+    "name": "Ectoplasm",
+    "effect": "Inverts all stat effects from events",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "casket_wine": {
+    "name": "Casket Wine",
+    "effect": "Only one stat is affected by events",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "casket wine": {
+    "name": "Casket Wine",
+    "effect": "Only one stat is affected by events",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "community_punch": {
+    "name": "Community Punch",
+    "effect": "Stat effects apply to all players",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "community punch": {
+    "name": "Community Punch",
+    "effect": "Stat effects apply to all players",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "low_cost_energy_drink": {
+    "name": "Low Cost Energy Drink",
+    "effect": "All players gain random double stats from locations",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "low cost energy drink": {
+    "name": "Low Cost Energy Drink",
+    "effect": "All players gain random double stats from locations",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "pair_of_beer_boots": {
+    "name": "Pair of Beer Boots",
+    "effect": "All players gain double stats at one location",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "pair of beer boots": {
+    "name": "Pair of Beer Boots",
+    "effect": "All players gain double stats at one location",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "loyalty_lemonade": {
+    "name": "Loyalty Lemonade",
+    "effect": "More visits to one location in a row = more stats gained",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "loyalty lemonade": {
+    "name": "Loyalty Lemonade",
+    "effect": "More visits to one location in a row = more stats gained",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "manhattan": {
+    "name": "Manhattan",
+    "effect": "+ 1 stat gains at all locations",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "bloody_mary": {
+    "name": "Bloody Mary",
+    "effect": "All players lose stats at all locations",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "bloody mary": {
+    "name": "Bloody Mary",
+    "effect": "All players lose stats at all locations",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "dark_n_stormy": {
+    "name": "Dark 'n' Stormy",
+    "effect": "All player stats are hidden",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "dark 'n' stormy": {
+    "name": "Dark 'n' Stormy",
+    "effect": "All player stats are hidden",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "ski_mask": {
+    "name": "Ski Mask",
+    "effect": "Player stats are hidden",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "ski mask": {
+    "name": "Ski Mask",
+    "effect": "Player stats are hidden",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the_foul_mouth": {
+    "name": "The Foul Mouth",
+    "effect": "New nicknames for all players",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the foul mouth": {
+    "name": "The Foul Mouth",
+    "effect": "New nicknames for all players",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the_cool_dude": {
+    "name": "The Cool Dude",
+    "effect": "New nicknames for all players",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the cool dude": {
+    "name": "The Cool Dude",
+    "effect": "New nicknames for all players",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "dumpster_fire": {
+    "name": "Dumpster Fire",
+    "effect": "New nickname",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "dumpster fire": {
+    "name": "Dumpster Fire",
+    "effect": "New nickname",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the_redacted": {
+    "name": "The [REDACTED]",
+    "effect": "New nickname",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the [redacted]": {
+    "name": "The [REDACTED]",
+    "effect": "New nickname",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "not_the_bees": {
+    "name": "Not the bees!",
+    "effect": "New nickname",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "not the bees!": {
+    "name": "Not the bees!",
+    "effect": "New nickname",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "screwdriver": {
+    "name": "Screwdriver",
+    "effect": "New stat names",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "hex_o_land": {
+    "name": "Hex'o'land",
+    "effect": "New stat names",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "hex'o'land": {
+    "name": "Hex'o'land",
+    "effect": "New stat names",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "fantasy_ale": {
+    "name": "Fantasy Ale",
+    "effect": "New stat names",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "fantasy ale": {
+    "name": "Fantasy Ale",
+    "effect": "New stat names",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "gamer_girl_bathwater": {
+    "name": "Gamer Girl Bathwater",
+    "effect": "New in-game music",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "gamer girl bathwater": {
+    "name": "Gamer Girl Bathwater",
+    "effect": "New in-game music",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "holy_water": {
+    "name": "Holy Water",
+    "effect": "New in-game music",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "holy water": {
+    "name": "Holy Water",
+    "effect": "New in-game music",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "co_fi_beats_to_relax_study_to": {
+    "name": "Co Fi Beats To Relax/Study To",
+    "effect": "New in-game music",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "co fi beats to relax/study to": {
+    "name": "Co Fi Beats To Relax/Study To",
+    "effect": "New in-game music",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the_classical_palette": {
+    "name": "The Classical Palette",
+    "effect": "New location backgrounds",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the classical palette": {
+    "name": "The Classical Palette",
+    "effect": "New location backgrounds",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "the_spook": {
+    "name": "The Spook",
+    "effect": "All stats raised to 99",
+    "misc": "Available after 100th playthrough",
+    "source": "camp_spreadsheet"
+  },
+  "the spook": {
+    "name": "The Spook",
+    "effect": "All stats raised to 99",
+    "misc": "Available after 100th playthrough",
+    "source": "camp_spreadsheet"
+  },
+  "whiskey": {
+    "name": "Whiskey",
+    "effect": "No effect",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "all_brians": {
+    "name": "All-Brians",
+    "effect": "All players become Brian/Green",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  },
+  "all-brians": {
+    "name": "All-Brians",
+    "effect": "All players become Brian/Green",
+    "misc": "",
+    "source": "camp_spreadsheet"
+  }
+}

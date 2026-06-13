@@ -1,0 +1,26 @@
+{
+  "game": "Monster Prom",
+  "output_log_path": null,
+  "mplogs_path": null,
+  "poll_interval_seconds": 0.2,
+  "stats_refresh_seconds": 2.0,
+  "overlay": {
+    "event_scan_seconds": 0.4,
+    "auto_memory_stats": false,
+    "auto_event_scan": true,
+    "predict_dialog": true,
+    "dialog_ocr": true,
+    "dialog_ocr_seconds": 2.5
+  },
+  "skip_history_on_start": true,
+  "only_notify_in_round": true,
+  "notifications": {
+    "secret_ending": true,
+    "secret_ending_first_only": true,
+    "achievement": true,
+    "game_end": true,
+    "interest_lock": true,
+    "event_outcome": false,
+    "plotline": false
+  }
+}

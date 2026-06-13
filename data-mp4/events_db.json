@@ -1,0 +1,1916 @@
+{
+  "hotel_and_outdoors_001": {
+    "name": "hotel_and_outdoors_001",
+    "route": "Hotel And Outdoors",
+    "type": "Stat Exchange",
+    "location": "Hotel And Outdoors",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "lose": "CHARM",
+        "hint": "Hook Doug's friend on something better than drugs: a six-book romantasy saga!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "lose": "FUN",
+        "hint": "Convince him that his true calling in life is to become an astronaut."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "hotel_and_outdoors_002": {
+    "name": "hotel_and_outdoors_002",
+    "route": "Hotel And Outdoors",
+    "type": "Stat Exchange",
+    "location": "Hotel And Outdoors",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "lose": "SMARTS",
+        "hint": "Never back down, never surrender. You have to out-yandere this yandere!"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "BOLD",
+        "hint": "Check the settings. You can probably set the holodoll to something like \"Dandere\" or \"Overly-supportive Soccer Mom.\""
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "hotel_and_outdoors_003": {
+    "name": "hotel_and_outdoors_003",
+    "route": "Hotel And Outdoors",
+    "type": "Stat Exchange",
+    "location": "Hotel And Outdoors",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "SMARTS",
+        "hint": "That is a special, extra belt for punishing hot people who have been naughty. Wink!"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "CHARM",
+        "hint": "Maybe we should use this one to actually hold up your pants?"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "hotel_and_outdoors_004": {
+    "name": "hotel_and_outdoors_004",
+    "route": "Hotel And Outdoors",
+    "type": "Stat Exchange",
+    "location": "Hotel And Outdoors",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "lose": "BOLD",
+        "hint": "Dress the gun up as a kawaii waifu. It will be undeniable that it's cosplay, first and foremost."
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "CREATIVE",
+        "hint": "They say 'no risk, no reward'... so is it REALLY bad to allow a gun into the con just because it sounds incredibly risky?"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "hotel_and_outdoors_005": {
+    "name": "hotel_and_outdoors_005",
+    "route": "Hotel And Outdoors",
+    "type": "Stat Exchange",
+    "location": "Hotel And Outdoors",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "lose": "BOLD",
+        "hint": "Fandom culture has produced more art and fiction in the last ten years than the 18th and 19th centuries combined."
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "CREATIVE",
+        "hint": "Weebs and nerds are uniquely good at taming tarantulas. They are the only thing standing between us and a tarantula-controlled society."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "main_stage_001": {
+    "name": "main_stage_001",
+    "route": "Main Stage",
+    "type": "Stat Exchange",
+    "location": "Main Stage",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "lose": "BOLD",
+        "hint": "Most of the action takes place in Liam Academy, but have you thought about how a universe of Liams would affect the economy and politics of this world?"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "SMARTS",
+        "hint": "Of all the friends you could've written speculative fanfics about... why Liam?"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "main_stage_002": {
+    "name": "main_stage_002",
+    "route": "Main Stage",
+    "type": "Stat Exchange",
+    "location": "Main Stage",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "lose": "CHARM",
+        "hint": "Who needs Twatch? Entertainment is always evolving. From now on, people will go visit streamers at their homes to watch them live!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "lose": "FUN",
+        "hint": "There's too much fear around \"losing your audience.\" Quality over quantity: focus on an audience of one, but REALLY care for that one person."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "main_stage_003": {
+    "name": "main_stage_003",
+    "route": "Main Stage",
+    "type": "Stat Exchange",
+    "location": "Main Stage",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "lose": "SMARTS",
+        "hint": "When Splash Kaboom is hurt, he loses all his coins. Does this mean he somehow stores coins inside of him? And most importantly, which hole do they come out of?"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "FUN",
+        "hint": "I've heard you can read the future by reading the entrails of a sacrificed animal... can you check my innards and tell me if my job interview next week will go "
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "main_stage_004": {
+    "name": "main_stage_004",
+    "route": "Main Stage",
+    "type": "Stat Exchange",
+    "location": "Main Stage",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "lose": "FUN",
+        "hint": "Liam, do you think agreeing to let Zoe write a fanfiction where all characters are you was an act of intense egoism, or a total deconstruction of your ego?"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "lose": "SMARTS",
+        "hint": "Liam, if all the Liams represent different aspects of yourself... which Liam represents your butt?"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "main_stage_005": {
+    "name": "main_stage_005",
+    "route": "Main Stage",
+    "type": "Stat Exchange",
+    "location": "Main Stage",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "lose": "BOLD",
+        "hint": "Challenge Nico to define \"antidisestablishmentarianism.\""
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "SMARTS",
+        "hint": "Well, Liam owes me 100 bucks."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "main_stage_006": {
+    "name": "main_stage_006",
+    "route": "Main Stage",
+    "type": "Stat Exchange",
+    "location": "Main Stage",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "lose": "CHARM",
+        "hint": "Historial Quote Or Very Bad Sexting Line?"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "lose": "SMARTS",
+        "hint": "The big prize bonus question: \"Will You Marry Me?\""
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "main_stage_007": {
+    "name": "main_stage_007",
+    "route": "Main Stage",
+    "type": "Stat Exchange",
+    "location": "Main Stage",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "SMARTS",
+        "hint": "Divert attention from Liam by convincing everyone that Garuto only will win the tournament if y'all send them energy by screaming very loud."
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "CHARM",
+        "hint": "Wow everyone by making your own prediction: the true threat isn't the big, buff enemy; it's the short, quiet one with an overcrowded design."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "main_stage_008": {
+    "name": "main_stage_008",
+    "route": "Main Stage",
+    "type": "Stat Exchange",
+    "location": "Main Stage",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "BOLD",
+        "hint": "Reveal secret e-mail sign-offs that will make everyone in the e-mail chain know who's the e-mail boss."
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "CHARM",
+        "hint": "Raise the stakes: do an escapism act in which you try to escape an e-mail chain while trapped in a water tank."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "main_stage_009": {
+    "name": "main_stage_009",
+    "route": "Main Stage",
+    "type": "Stat Exchange",
+    "location": "Main Stage",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "lose": "CHARM",
+        "hint": "Plant fake memories in a stranger's subconscious that you're old friends, to make them think they were saving a pllace in line for you."
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "lose": "SMARTS",
+        "hint": "Just start a second line. If anyone dares to question your ruse, just laugh and say, \"Ha, of course you wouldn't know about the VIP line.\""
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "main_stage_010": {
+    "name": "main_stage_010",
+    "route": "Main Stage",
+    "type": "Stat Exchange",
+    "location": "Main Stage",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "lose": "SMARTS",
+        "hint": "Think very non-advertiser friendly thoughts."
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "BOLD",
+        "hint": "I know a magic spell that makes brands go away! Repeat after me: \"I'm broke.\""
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "main_stage_011": {
+    "name": "main_stage_011",
+    "route": "Main Stage",
+    "type": "Stat Exchange",
+    "location": "Main Stage",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "SMARTS",
+        "hint": "Use your \"Phone a Friend\" lifeline so you can defer the responsibility to someone else."
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "CHARM",
+        "hint": "Defund the trolley infrastructure of this \"hypothetical\" city. It has only brought terrible transportation, several dead people, and no ethical clarity."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "main_stage_012": {
+    "name": "main_stage_012",
+    "route": "Main Stage",
+    "type": "Stat Exchange",
+    "location": "Main Stage",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "lose": "CREATIVE",
+        "hint": "Let the audience decide by subjecting Rush Richards and the drunkard to the oldest popularity test ever: ♥♥♥♥, MARRY, KILL."
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "lose": "FUN",
+        "hint": "You're all here for an autograph session, so it only makes sense that whoever has the prettiest signature gets to be the celebrity."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "main_stage_013": {
+    "name": "main_stage_013",
+    "route": "Main Stage",
+    "type": "Stat Exchange",
+    "location": "Main Stage",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "lose": "FUN",
+        "hint": "This 5-hour experimental Hungarian film about the futility of life. It was practically made for zany audience interactions!"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "lose": "SMARTS",
+        "hint": "Porn."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "main_stage_014": {
+    "name": "main_stage_014",
+    "route": "Main Stage",
+    "type": "Stat Exchange",
+    "location": "Main Stage",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "lose": "SMARTS",
+        "hint": "Make a deal with the devil: April's Fools will gain decent coordination in exchange for ten years of THEIR lives. They'll thank you later!"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "BOLD",
+        "hint": "Harvest all their souls and hoard them all together inside a single raccoon... and then bring them back. It's like a coordination furry boot camp!"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_001": {
+    "name": "community_zone_001",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "lose": "CHARM",
+        "hint": "Eat several game pieces so you can call a Food Safety Inspector to ban the game for being a choking hazard."
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "lose": "BOLD",
+        "hint": "Yell \"I WIN\" very convincingly."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_002": {
+    "name": "community_zone_002",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "lose": "FUN",
+        "hint": "The Mascot of the Backrooms. You might die in here, but look at this \"cute\" mascot!"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "lose": "BOLD",
+        "hint": "The Mascot of the G-Spot, a place that could certainly use more visits."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_003": {
+    "name": "community_zone_003",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "lose": "CHARM",
+        "hint": "Fire the dakimakura cannon. No one can be sad when they have a dakimakura!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "lose": "FUN",
+        "hint": "Convince everyone that a few very bad seasons are necessary for an anime to attain the cult status that allows you to say, \"It really gets good in season 5!\""
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_004": {
+    "name": "community_zone_004",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "FUN",
+        "hint": "You can't jump directly into playing DDR. First you need some tender DDR foreplay."
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "lose": "CHARM",
+        "hint": "Your moves are too dry. Cover the DDR panel in strawberry-flavored lube."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_005": {
+    "name": "community_zone_005",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "FUN",
+        "hint": "\"Backhanded Blessings:\" a world in which backhanded compliments become true as if they were curses cast upon your enemies."
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "lose": "CHARM",
+        "hint": "STM: Sexually Transmitted Magic"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_006": {
+    "name": "community_zone_006",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "lose": "SMARTS",
+        "hint": "Turn this into an 8-hour long drinking game. Alcohol will assuage their attitudes AND make the marathon (and these two) way more bearable for you."
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "FUN",
+        "hint": "Just astral project yourself to somewhere else. Your friends will be impressed by how focused you'll look while you can skip 8 hours of old movies."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_007": {
+    "name": "community_zone_007",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "lose": "SMARTS",
+        "hint": "No time to think! Smash your arm with your emergency hammer until you finally have something broken with you."
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "BOLD",
+        "hint": "Your bank account. You've been broke for too long, and it sounds like it could be beautifully fixed by adding some gold."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_008": {
+    "name": "community_zone_008",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "SMARTS",
+        "hint": "Award them what all professional gamers seek: a coupon for parental approval of their life choices."
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "CHARM",
+        "hint": "Give them a drinking glass. Trophies are very inefficient container for liquids anyway."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_009": {
+    "name": "community_zone_009",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "lose": "CREATIVE",
+        "hint": "Roll sleight of hand to start eating the dominoes without your friends noticing."
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "lose": "FUN",
+        "hint": "Accept that you can't unhook these idiots. Help Liam redesign his whole campaign to be experienced through high-stakes domino matches. It's a win-win!"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_010": {
+    "name": "community_zone_010",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "lose": "FUN",
+        "hint": "Anime Mastermind Plot Twist: reveal that you imagined that one week before, your team paid millions of imaginary dollars to hire Liam, so all his points have be"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "lose": "SMARTS",
+        "hint": "Throw Liam off by asking him why isn't he wearing imaginary pants in the imaginary match."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_011": {
+    "name": "community_zone_011",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "lose": "BOLD",
+        "hint": "Add a dog to your team. Little do they know: it says nowhere in the novels that a dog cannot play the sport!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "FUN",
+        "hint": "Shoot them in their knees and tell them it's a rule. It's not; but since they haven't read the novels, they don't know!"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_012": {
+    "name": "community_zone_012",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "lose": "SMARTS",
+        "hint": "A ball pit is technically a type of pool, and therefore the jurisdiction of lifeguards, not security guards. They have no claim over April."
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "CREATIVE",
+        "hint": "Pose as an FBI agent who's gotta take April in for her other, much more horrendous crimes. You'll take it from here, thanks."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_013": {
+    "name": "community_zone_013",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "lose": "BOLD",
+        "hint": "Build a 12-foot marble statue in your likeness. Nico knows what you look like, making this a very recognizable meeting point!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "CREATIVE",
+        "hint": "Start a fire. A big fire would be very easy to see from a distance, especially indoors!"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_014": {
+    "name": "community_zone_014",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "lose": "CHARM",
+        "hint": "Perform a guitar solo so awesome that you gain the right to crowdsurf. This way, you can pull April out of the crowd riptide."
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "lose": "CREATIVE",
+        "hint": "It's too late for her. Just befriend a random con-goer and make them the New April. It's what Old April would've wanted, probably."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_015": {
+    "name": "community_zone_015",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "lose": "SMARTS",
+        "hint": "Your son needs to hear this news from his possible-future-stepmom's mouth! Bring the vocaloid here to meet him, and also us, but mostly him."
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "FUN",
+        "hint": "Well, looks like the son's gonna have to find a new hobby. Educate him on the endless fun of stamp collecting."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_016": {
+    "name": "community_zone_016",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "lose": "CREATIVE",
+        "hint": "I love the cosplay! When I wear this mask, nobody sees the person who killed all those people in Utah. It's refreshing!"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "lose": "BOLD",
+        "hint": "My favorite thing about the con is that the invisible gorilla that wants to kill me isn't here... for now."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_017": {
+    "name": "community_zone_017",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "SMARTS",
+        "hint": "Commute the sentence by doing community service. But you're not ready to touch grass yet, so what about making it... online community service?"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "CHARM",
+        "hint": "Tell the guards that Omen and Liam can offer valuable insight into catching Spooky Con's biggest criminal: The ♥♥♥♥ Doodler"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_018": {
+    "name": "community_zone_018",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "lose": "SMARTS",
+        "hint": "Write a sad country song about losing your beloved wallter and perform it on the big stage. Whoever cries is probably missing their wallet."
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "CREATIVE",
+        "hint": "We gotta get into the mindset of the person who owns this wallet. Let's all lose out wallets so we can start in the right headspace."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_019": {
+    "name": "community_zone_019",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "lose": "CHARM",
+        "hint": "Save your friends from making a hard choice: stab yourself in the kidney."
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "lose": "BOLD",
+        "hint": "Sharing is caring: split the spare kidney so each of them gets half"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_020": {
+    "name": "community_zone_020",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "CREATIVE",
+        "hint": "Convince the injured person to cosplay as someone healthy so Nico doesn't malpractice them to death."
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "lose": "CHARM",
+        "hint": "Only one thing stops TV doctors from doing their job: relationship drama. Introduce a love interest and a will-they-won't-they plot to keep Nico too busy to com"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_021": {
+    "name": "community_zone_021",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "lose": "CREATIVE",
+        "hint": "His imaginary lung's been punctured! You'll need a lung donation from his imaginary friend."
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "lose": "FUN",
+        "hint": "Treat him by drawing a badass-looking scar on him. That's the only reason action heroes fight in the end: to get badass-looking scars."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_022": {
+    "name": "community_zone_022",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "lose": "FUN",
+        "hint": "Call out, \"Is the line for renowned conceptual artist Omen's latest work: \"Getting Stabbed, the Artictic Experience?\"\""
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "lose": "CREATIVE",
+        "hint": "Dilute blame: stab someone and yell \"STAB PARTY!\""
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "community_zone_023": {
+    "name": "community_zone_023",
+    "route": "Community Zone",
+    "type": "Stat Exchange",
+    "location": "Community Zone",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "lose": "SMARTS",
+        "hint": "When you need rescuing, you're supposed to deploy a flare gun. You only have a real gun, but that's probably close enough."
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "BOLD",
+        "hint": "Float the idea that one of you could volunteer their blood for the others to drink. Fun fact: blood is full of nutrients!"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_001": {
+    "name": "merch_hall_001",
+    "route": "Merch Hall",
+    "type": "Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "lose": "SMARTS",
+        "hint": "Kawaii overdose is no different from snake venom (you think). Time to use your survival skills: suck the kawaii out of your friends' bodies."
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "BOLD",
+        "hint": "Read the product's label. It was probably made by people under very non-kawaii working conditions."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_002": {
+    "name": "merch_hall_002",
+    "route": "Merch Hall",
+    "type": "Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "BOLD",
+        "hint": "Tell people the dakimakura is a cursed object that contains the soul of your loved one, and you're still figuring out how to get them out of their soft, cushy c"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "CHARM",
+        "hint": "Dakimakuras are the ultimate weapon in a pillow fight: their length means bigger blows, and the sexy character is just a diversion to make the opponent horny!"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_003": {
+    "name": "merch_hall_003",
+    "route": "Merch Hall",
+    "type": "Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "lose": "BOLD",
+        "hint": "Sell your soul to make the Spooky Con an endless time loop full of wacky misadventures and the constant pursuit of love!"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "FUN",
+        "hint": "Sell your soul in exchange for someone else's soul. Chances are you're getting the better deal."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_004": {
+    "name": "merch_hall_004",
+    "route": "Merch Hall",
+    "type": "Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "lose": "CHARM",
+        "hint": "Get her into sewing. It's like stabbing fabric repeatedly!"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "lose": "BOLD",
+        "hint": "Reptile care. Omen can probably relate to cold-blooded creatures, and this is a perfect excuse for you to pet an iguana."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_005": {
+    "name": "merch_hall_005",
+    "route": "Merch Hall",
+    "type": "Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "lose": "BOLD",
+        "hint": "Make a time capsule of all their work, so that in the distant future people will remember how feet used to look."
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "SMARTS",
+        "hint": "You have to accept that drawing feet isn't something that makes someone memorable. Crashing your car into the White House, on the other hand..."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_006": {
+    "name": "merch_hall_006",
+    "route": "Merch Hall",
+    "type": "Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "SMARTS",
+        "hint": "Strike a deal with Omen: Doug gets the figurine and she can have some other plaything in exchange, like your soul or whatever."
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "CHARM",
+        "hint": "Explain that the figurine is powerfully cursed: whoever owns it risks developing an intense attachment to the fictional hottie it represents."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_007": {
+    "name": "merch_hall_007",
+    "route": "Merch Hall",
+    "type": "Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "lose": "SMARTS",
+        "hint": "Go for the gacha that wows everyone: cool tardigrade doing a sick skateboard trick"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "FUN",
+        "hint": "The little creature in a silly pose of abject terror, as if they were hit by a spell that turned them into a gacha"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_008": {
+    "name": "merch_hall_008",
+    "route": "Merch Hall",
+    "type": "Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "CREATIVE",
+        "hint": "Convince the vendors that all property is an illusion. Does ANYONE really own this table?"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "lose": "CHARM",
+        "hint": "Perform forbidden surgery and sew the two vendors together into a flesh construct. You've sewn a couple cosplays yourself; how much more difficult this can be?"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_009": {
+    "name": "merch_hall_009",
+    "route": "Merch Hall",
+    "type": "Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "lose": "BOLD",
+        "hint": "Take advantage of your surroundings: choose a duet so the beast is forced to sing along with you instead of murdering you all."
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "CREATIVE",
+        "hint": "When in doubt, choose blackmail: tell April that if she doesn't let you out, you'll spend your dying breath posting no-makeup photos of her online."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_010": {
+    "name": "merch_hall_010",
+    "route": "Merch Hall",
+    "type": "Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "lose": "CREATIVE",
+        "hint": "The next step for the magical girl is the logical one: the Magical Middle-Aged Woman, with new unnique tropes like Magical Soccer Mom and Magical MILF."
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "lose": "SMARTS",
+        "hint": "There's ONE thing that has never been challenged in magical girl anime. It's time for a magical girl who... wears pants."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_011": {
+    "name": "merch_hall_011",
+    "route": "Merch Hall",
+    "type": "Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "FUN",
+        "hint": "Call a different angry mob that Liam enraged in the past and instigate a fight between the mobs."
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "lose": "CHARM",
+        "hint": "Make Liam use his classic vampire power of turning into a hot dog stand. Surely the angry mob's hatred of Liam will pale compared to their love of hot dogs."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_012": {
+    "name": "merch_hall_012",
+    "route": "Merch Hall",
+    "type": "Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "lose": "CREATIVE",
+        "hint": "This feels like punishment... which means Liam probably gave you a safe word while explaining the rules. Wrack your brain to remember it, so you can move onto a"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "lose": "SMARTS",
+        "hint": "Subvert the rules by ending the game in an unexpected way: eat all the game pieces. You'll also get to show off how much you can swallow."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_013": {
+    "name": "merch_hall_013",
+    "route": "Merch Hall",
+    "type": "Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "lose": "CHARM",
+        "hint": "It's cool to have morals, and if you manage to collect ALL the morals, they let you add a new rule to the rules of conduct."
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "lose": "FUN",
+        "hint": "How else are you gonna get a good rating at RateMyMorals.com?"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_014": {
+    "name": "merch_hall_014",
+    "route": "TTRPGs",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "lose": "CHARM",
+        "hint": "The beholder that cleans the tavern's bathrooms. It's clearly Liam's clever way of saying this character \"has seen some ♥♥♥♥.\""
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "lose": "CREATIVE",
+        "hint": "The mysterious-looking purple guy that's \"definitely not\" Liam's self-insert character. No artist can resist self-inserting."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_015": {
+    "name": "merch_hall_015",
+    "route": "TTRPGs",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "lose": "BOLD",
+        "hint": "Just rebrand the evacuation as a pilgrimage. Medieval-types are super into that religious stuff."
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "CREATIVE",
+        "hint": "People are bad at taking seriously any danger they can't see. Give them some danger they can see: UNHINGE JAW. BEES POUR OUT!"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_016": {
+    "name": "merch_hall_016",
+    "route": "TTRPGs",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "lose": "CHARM",
+        "hint": "If you know anything about Liam, you can get the warlock to join your side by finding a common enemy: people who misuse the word \"literally.\""
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "lose": "SMARTS",
+        "hint": "Fix this villain the way all evil, sexually-frustrated men get fixed: with a big-tiddy goth GF."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_017": {
+    "name": "merch_hall_017",
+    "route": "JOJO",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "lose": "BOLD",
+        "hint": "Do what you always do when people are discussing an anime you don't give a ♥♥♥♥ about: dissociate and go to your happy place."
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "FUN",
+        "hint": "Punch a plate of spaghetti. Since apparently everything is a ♥♥♥♥♥♥' JoJo reference, this probably is too."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_018": {
+    "name": "merch_hall_018",
+    "route": "JOJO",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "lose": "BOLD",
+        "hint": "You've gone down one of the two rabbit holes yourself, and you've learned the best way to avoid getting stuck. Cover Liam in lube."
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "FUN",
+        "hint": "Brainrot happens when you thing TOO MUCH about something. Hit Liam with a shovel every forty minutes so he can't think properly at all."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_019": {
+    "name": "merch_hall_019",
+    "route": "JOJO",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "lose": "SMARTS",
+        "hint": "Remind Liam of his pre-brainrot days, when he occupied his days with simpler pleasures, like drawing two beautiful men practicing sweaty glorious sex. Doesn't h"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "BOLD",
+        "hint": "Liam's too far gone. Just smile and nod while you silently call 911."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_020": {
+    "name": "merch_hall_020",
+    "route": "GARFIELD",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "BOLD",
+        "hint": "Whenever she's interrupted, have Zoe stand up and look out the window in a reflective, somber mood. The execs will be really impressed."
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "CHARM",
+        "hint": "Bring your \"negotiation rifle\" to give Zoe and edge in this bartering session."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_021": {
+    "name": "merch_hall_021",
+    "route": "GARFIELD",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "lose": "BOLD",
+        "hint": "Delicious Soda-Hands Liam"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "FUN",
+        "hint": "Sexy Demon Bad Boy Liam"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_022": {
+    "name": "merch_hall_022",
+    "route": "GARFIELD",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "FUN",
+        "hint": "The one stating the corporation retains the rights to \"Liam\" - not the IP, but Liam himself. You're not read to say goodbye... yet."
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "lose": "CHARM",
+        "hint": "The clause that states that Zoe must eat a tuna sandwich as part of a marketing strategy. Everyone knows Zoe HATES tuna sandwiches."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_023": {
+    "name": "merch_hall_023",
+    "route": "COVEN",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "lose": "FUN",
+        "hint": "Witches like magic, and you know how to brew a coffee so strong it could raise the dead. Nothing more magic than that!"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "lose": "SMARTS",
+        "hint": "You could swear you saw Liam winking when asking you to make coffee. Maybe that was code for you to bring your signature tequilla shots instead? Yeah, probably."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_024": {
+    "name": "merch_hall_024",
+    "route": "COVEN",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "FUN",
+        "hint": "Make Adrien feel at home by preparing an americano. It's two-thirds water!"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "lose": "CHARM",
+        "hint": "Ah, this time there's no doubt! By \"coffee\", Liam clearly meant \"your signature tequilla shots\". Classic Liam!"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_025": {
+    "name": "merch_hall_025",
+    "route": "COVEN",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "lose": "FUN",
+        "hint": "Serve the drink no one suspects to be poisoned: a full glass of poison itself!"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "lose": "BOLD",
+        "hint": "You gotta win the duke over while impairing his alertness. You know it in your bones: the time as come for your signature tequilla shots!"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_026": {
+    "name": "merch_hall_026",
+    "route": "COVEN",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "FUN",
+        "hint": "The one in the sexy, skimpy armor. You cann beat them at their own game: set your signature thirst traps and crush them between your mighty butt cheeks!"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "lose": "CHARM",
+        "hint": "Pick an easy target: the duke's jester. A life of pathetic mishaps has prepared you to out-clown this ♥♥♥♥♥♥."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_027": {
+    "name": "merch_hall_027",
+    "route": "COVEN",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "BOLD",
+        "hint": "Appeal to the Old One's politeness and explain that the Monster Realm closes on Mondays, so it should come back tomorrow."
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "CHARM",
+        "hint": "What about punching the old one? Sure, Liam and Zoe both have unparalleled amounts of magic power... but you punch REALLY HARD."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_028": {
+    "name": "merch_hall_028",
+    "route": "APRIL",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "lose": "CHARM",
+        "hint": "You have just the thing for this! Not long ago, you recorded and edited a video-introduction for an 80s video-dating service. It explains why you'd be a good lo"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "lose": "CREATIVE",
+        "hint": "Call your friend Liam. He'll be happy to confirm you are definitely a clown."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_029": {
+    "name": "merch_hall_029",
+    "route": "APRIL",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "lose": "CHARM",
+        "hint": "You gotta sell yourself in the only language corporate shills understand: a dynamic PowerPoint presentation full of charts and buzzwords."
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "lose": "CREATIVE",
+        "hint": "The most marketable part of a celebrity couple is the dramatic break-up. Then you could be the rebound and sell the fantasy that normal people have a chance wit"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_030": {
+    "name": "merch_hall_030",
+    "route": "APRIL",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "lose": "CHARM",
+        "hint": "Explain to April that this isn't creepy at all because you collect painted eggs that look like all of your friends."
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "lose": "FUN",
+        "hint": "Explain to April that you could never abandon something as precious as an egg she laid."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_031": {
+    "name": "merch_hall_031",
+    "route": "DOUG",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "SMARTS",
+        "hint": "Write \"If Found Please Return to Doug\" on the boomerang. It'll mix the badassery of boomerangs with the wholesomeness of trusting people's kindness."
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "CHARM",
+        "hint": "Has he tried throwing it straight upwards? It's SO much easier."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_032": {
+    "name": "merch_hall_032",
+    "route": "DOUG",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "lose": "FUN",
+        "hint": "Introduce yourself by yelling \"BOOM! ...erang.\" Everyone loves a good catchphrase."
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "lose": "CREATIVE",
+        "hint": "Get another boomerang. Nobody else here has TWO boomerangs."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_033": {
+    "name": "merch_hall_033",
+    "route": "DOUG",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "SMARTS",
+        "hint": "Make him realize the boomerang gang are ♥♥♥♥♥♥, fake friends: tell them Doug is moving anf needs some help, if they're not too busy."
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "CHARM",
+        "hint": "Put an end to this nonsense by calling the cops. Boomerangs are classified as a deadly weapon."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_034": {
+    "name": "merch_hall_034",
+    "route": "GRIMOIRE",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "lose": "FUN",
+        "hint": "This spell is for shooting metal projectiles at a deadly speed. You're pretty sure that's just a gun."
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "lose": "BOLD",
+        "hint": "You don't need a possession spell to control someone else's body. Just piggyback-ride them!"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_035": {
+    "name": "merch_hall_035",
+    "route": "GRIMOIRE",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "FUN",
+        "hint": "Summoning powerful entities is an excercise in selfishness. You're always calling them to come to you... have you ever considered visiting them?"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "lose": "CHARM",
+        "hint": "Order a pizza. It's like summoning the delivery person. And it includes pizza, which most traditional summon spells lack!"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_036": {
+    "name": "merch_hall_036",
+    "route": "GRIMOIRE",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "lose": "BOLD",
+        "hint": "This is your true calling as a shenanigans-doer: convince Omen she has raised an army of re-animated skeletons by pulling of the biggest \"Weekend at Bernie's\" e"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "FUN",
+        "hint": "Just raise a regular army. Almost everyone is a flesh-covered skeleton anyways. The only thing standing between Omen and a skeleton army will be skinning a lot "
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_037": {
+    "name": "merch_hall_037",
+    "route": "NICO",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "lose": "BOLD",
+        "hint": "A cathartic dance number down a flight of stairs that makes people want to become you, despite you being a known murderer."
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "CREATIVE",
+        "hint": "The Joker is known for fighting the Batman, but Nico will have to make do with the next best thing you have: this bag full of actual bats."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_038": {
+    "name": "merch_hall_038",
+    "route": "NICO",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CHARM",
+        "lose": "BOLD",
+        "hint": "You should evoke the fond memory of one's first fictional love... and let's be honest: for many congoers, that'd be an oversexualized video game character."
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "CHARM",
+        "hint": "People love morally-gray antiheroes. Why don't you raise the bar and go for a no-half-measures, morally-bankrupt supervillain?"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_039": {
+    "name": "merch_hall_039",
+    "route": "NICO",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "CREATIVE",
+        "lose": "SMARTS",
+        "hint": "Oversexualized video game characters tent to wield weirdly-phallic weapons. Disrupt the industry by building the most vaginal, vulvastic, ♥♥♥♥♥licious weapon ev"
+      },
+      {
+        "option": 2,
+        "stat": "SMARTS",
+        "lose": "CREATIVE",
+        "hint": "Oversexualized video characters fly or die depending on the quality of boob jiggle physics. Study them so Nico can master pec jiggling."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_040": {
+    "name": "merch_hall_040",
+    "route": "NICO",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "lose": "FUN",
+        "hint": "Every supervillain has a criminal record. Quick! We have 24 hours to commit 5-8 crimes!"
+      },
+      {
+        "option": 2,
+        "stat": "FUN",
+        "lose": "BOLD",
+        "hint": "To truly be morally bankrupt, you gotta spend all your karma savings. Let's go bonkers and max out all your karmic credit cards!"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_041": {
+    "name": "merch_hall_041",
+    "route": "NICO",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "lose": "CREATIVE",
+        "hint": "Steampunk has something to do with steam (you think). Have Nico make a \"steamy\" entrance by renting a fog machine."
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "lose": "FUN",
+        "hint": "Steampunk always has charismatic automaton comparison. Give some googly eyes to a toaster and hope the audience doesn't have much of a high bar."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_042": {
+    "name": "merch_hall_042",
+    "route": "NICO",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "FUN",
+        "lose": "BOLD",
+        "hint": "Everyone likes pancake-eating contests. What if people competed to eat Nico? I mean, look at them... om nom nom."
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "FUN",
+        "hint": "Pancakes are best eaten boneless. Remove all of Nico's bones."
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_043": {
+    "name": "merch_hall_043",
+    "route": "LIAM PROM",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "lose": "BOLD",
+        "hint": "Cartographer Liam"
+      },
+      {
+        "option": 2,
+        "stat": "BOLD",
+        "lose": "SMARTS",
+        "hint": "Yandere Liam"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_044": {
+    "name": "merch_hall_044",
+    "route": "LIAM PROM",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "BOLD",
+        "lose": "CREATIVE",
+        "hint": "Brooding Post-Apocalypse Liam"
+      },
+      {
+        "option": 2,
+        "stat": "CREATIVE",
+        "lose": "BOLD",
+        "hint": "Glam Rock Liam"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  },
+  "merch_hall_045": {
+    "name": "merch_hall_045",
+    "route": "LIAM PROM",
+    "type": "Secret Stat Exchange",
+    "location": "Merch Hall",
+    "phase": "con",
+    "options": [
+      {
+        "option": 1,
+        "stat": "SMARTS",
+        "lose": "CHARM",
+        "hint": "Creativity"
+      },
+      {
+        "option": 2,
+        "stat": "CHARM",
+        "lose": "SMARTS",
+        "hint": "Event 3 (BUFF LIAM) - Stat Check"
+      }
+    ],
+    "source": "steam_guide_mp4"
+  }
+}
