@@ -11,7 +11,7 @@ import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT_DIR = ROOT / "data-camp"
+OUT_DIR = ROOT / "games" / "monster-camp" / "data"
 SHEET_ID = "1dvqS63ssINhneJGm9hi3V2tGTm5kF1utv1cl8cdtfJ0"
 BASE = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/gviz/tq?tqx=out:csv&sheet="
 

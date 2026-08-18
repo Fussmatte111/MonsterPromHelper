@@ -10,7 +10,7 @@ ROOT = Path(__file__).resolve().parent.parent
 GUIDE = Path(
     r"C:\Users\matti\.cursor\projects\c-Users-matti-Downloads-MonsterPromHelper\agent-tools\20607f07-0b3f-4c7a-b394-a6acec9e329a.txt"
 )
-OUT_EVENTS = ROOT / "data-mp4" / "events_db.json"
+OUT_EVENTS = ROOT / "games" / "monster-con" / "data" / "events_db.json"
 
 STAT_MAP = {
     "SMARTS": "SMARTS",

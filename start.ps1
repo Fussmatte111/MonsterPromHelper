@@ -1,3 +1,2 @@
-Set-Location $PSScriptRoot
-python -m pip install -q -r requirements.txt
-python -m src.main @args
+Set-Location (Join-Path $PSScriptRoot "python")
+& .\start.ps1 @args

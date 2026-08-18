@@ -7,17 +7,16 @@ __pycache__/
 venv/
 
 # Local config / runtime cache
-config.json
-data/memory_cache.json
-data-camp/*_raw.csv
+python/config.json
+python/memory_cache.json
+games/*/data/memory_cache.json
+games/monster-camp/data/*_raw.csv
 
 # .NET / BepInEx build
 **/obj/
 **/bin/
-bepinex-plugin/dist/
-bepinex-plugin/dist-camp/
-bepinex-plugin/dist-mp4/
-bepinex-plugin/lib/*.dll
+games/*/dist/
+games/*/lib/*.dll
 *.pdb
 
 # IDE

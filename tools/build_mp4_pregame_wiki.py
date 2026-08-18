@@ -8,7 +8,7 @@ import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / "data-mp4" / "pregame_db.json"
+OUT = ROOT / "games" / "monster-con" / "data" / "pregame_db.json"
 WIKI_URL = (
     "https://monsterprom.wiki.gg/api.php"
     "?action=query&titles=Pre-Game_Preparation/Monster_Con"

@@ -20,7 +20,7 @@ ROOT = Path(__file__).resolve().parent.parent
 GUIDE = Path(
     r"C:\Users\matti\.cursor\projects\c-Users-matti-Downloads-MonsterPromHelper\agent-tools\d9e33e32-e4b5-48f2-b8b2-13399df11a1d.txt"
 )
-OUT = ROOT / "data" / "events_db.json"
+OUT = ROOT / "games" / "monster-prom" / "data" / "events_db.json"
 MODS_DIR = Path.home() / "AppData/LocalLow/Beautiful Glitch/Monster Prom/Mods"
 
 

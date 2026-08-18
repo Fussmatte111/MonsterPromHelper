@@ -1,4 +1,3 @@
 @echo off
-cd /d "%~dp0"
-python -m pip install -q -r requirements.txt
-python -m src.main %*
+cd /d "%~dp0python"
+call start.bat %*

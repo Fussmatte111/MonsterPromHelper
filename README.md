@@ -1,238 +1,116 @@
 # Monster Prom Helper
 
-Hilfstools für die **Monster-Prom-Reihe** (Beautiful Glitch): Ingame-Overlays per **BepInEx** und optional ein **Python-Log-Agent** mit Windows-Toasts.
+Unofficial fan tools for the **Monster Prom** series (Beautiful Glitch): in-game overlays via **BepInEx**, plus an optional **Python log agent** with Windows toasts.
 
-> **Unofficial fan project.** Nicht von Beautiful Glitch. Nutzung auf eigenes Risiko; Mods können Achievements oder Online-Features beeinflussen.
+> Not affiliated with Beautiful Glitch. Use at your own risk; mods can affect achievements or online features.
 
 Repository: [github.com/Fussmatte111/MonsterPromHelper](https://github.com/Fussmatte111/MonsterPromHelper)
 
 ---
 
-## Zwei Komponenten
+## Two components
 
-| | **BepInEx-Plugins** *(empfohlen)* | **Python-Tools** *(optional)* |
-|--|-----------------------------------|-------------------------------|
-| **Was** | Ingame-Overlay, Pick-Hints, Secret-Alerts | Log-Watcher + Desktop-Overlay |
-| **Datenquelle** | Direkt aus dem Spiel (Stats, Dialog-UI) | Unity-Log, optional OCR/RAM |
-| **Doku** | [`bepinex-plugin/README.md`](bepinex-plugin/README.md) | Diese Datei |
-| **Start** | Plugin ins Spiel kopieren | `start.bat` / `start_overlay.bat` |
+| | **BepInEx plugins** *(recommended)* | **Python tools** *(optional)* |
+|--|-------------------------------------|-------------------------------|
+| **What** | In-game overlay, pick hints, secret alerts | Log watcher + desktop overlay |
+| **Data source** | Live game state (stats, dialog UI) | Unity log, optional OCR / RAM |
+| **Docs** | Per-game README under `games/` | [`python/README.md`](python/README.md) |
+| **Start** | Copy the install pack into the game folder | `start.bat` / `start_overlay.bat` |
 
-Beides kann **parallel** laufen: BepInEx für präzise Empfehlungen im Spiel, Python für Toasts im Hintergrund.
+Both can run at the same time: BepInEx for precise in-game picks, Python for background toasts.
 
 ---
 
-## Unterstützte Spiele
+## Supported games
 
-| Spiel | BepInEx-Plugin | Python (`config.json`) |
-|-------|----------------|-------------------------|
-| **Monster Prom** (1) | `MonsterPromHelper` | `"game": "Monster Prom"` |
-| **Monster Prom 2: Monster Camp** | `MonsterCampHelper` | `"game": "Monster Camp"` |
-| **Monster Prom 4: Monster Con** | `MonsterProm4Helper` | *(primär BepInEx)* |
+| Game | Folder | Plugin | Python (`config.json`) |
+|------|--------|--------|-------------------------|
+| **Monster Prom** (1) | [`games/monster-prom/`](games/monster-prom/README.md) | `MonsterPromHelper` | `"game": "Monster Prom"` |
+| **Monster Prom 2: Monster Camp** | [`games/monster-camp/`](games/monster-camp/README.md) | `MonsterCampHelper` | `"game": "Monster Camp"` |
+| **Monster Prom 4: Monster Con** | [`games/monster-con/`](games/monster-con/README.md) | `MonsterProm4Helper` | *(BepInEx first)* |
 
-Steam-Ordner (Windows, typisch):
+Typical Steam folders (`steamapps/common/`):
 
-| Spiel | Ordner unter `steamapps/common/` |
-|-------|----------------------------------|
+| Game | Folder |
+|------|--------|
 | Monster Prom | `Monster Prom/` |
 | Monster Camp | `Monster Prom 2 - Monster Camp/` |
 | Monster Con | `Monster Prom 4 - Monster Con/` |
 
----
-
-## Schnellstart — BepInEx *(empfohlen)*
-
-1. [BepInEx 5.4 x86](https://github.com/BepInEx/BepInEx/releases) in den Spielordner entpacken.
-2. Spiel einmal starten (damit `BepInEx/plugins/` angelegt wird).
-3. Passendes Paket aus `bepinex-plugin/install-pack*` in denselben Ordner kopieren.
-4. **F8** im Spiel → Overlay mit Event-Empfehlung.
-
-Ausführliche Anleitung, Build-Skripte und Fehlerbehebung:
-
-**→ [`bepinex-plugin/README.md`](bepinex-plugin/README.md)**
+Each game needs **its own BepInEx** in that install folder. Plugins are not interchangeable.
 
 ---
 
-## Schnellstart — Python
+## Quick start — BepInEx *(recommended)*
 
-### Voraussetzungen
+1. Unpack [BepInEx 5.4 x86](https://github.com/BepInEx/BepInEx/releases) into the game folder.
+2. Launch the game once so `BepInEx/plugins/` is created.
+3. Copy the matching `games/<game>/install-pack/` into the same folder (merge).
+4. Press **F8** in-game for the overlay and pick recommendation.
 
-- **Windows 10/11**
-- **Python 3.10+**
-- Spiel mindestens einmal gestartet (Log-Datei wird angelegt)
+Full install, build scripts, and troubleshooting live in each game README.
 
-### Log-Watcher (Toasts)
+---
+
+## Quick start — Python
 
 ```powershell
-cd path\to\MonsterPromHelper
 .\start.ps1
 ```
 
-Oder Doppelklick auf `start.bat`. Beim ersten Start wird `config.json` aus `config.example.json` erzeugt.
+Or double-click `start.bat`. On first run this copies `python/config.example.json` to `python/config.json`.
 
-Das Skript installiert Abhängigkeiten (`pip install -r requirements.txt`) und überwacht das Unity-Log.
-
-### Desktop-Overlay (OCR / Suche)
+Desktop overlay (OCR / search):
 
 ```powershell
 .\start_overlay.bat
 ```
 
-Separates Fenster mit Stat-Eingabe, Event-Suche und optional Screenshot-OCR. Monster Prom muss **sichtbar** sein (nicht minimiert). Bei Speicher-Problemen: **als Administrator** starten.
+Details: [`python/README.md`](python/README.md)
 
 ---
 
-## Python — Was wird getrackt?
-
-| Quelle | Wann | Beispiel |
-|--------|------|----------|
-| `output_log.txt` / `Player.log` | Live während du spielst | `Output chosen: Option2Success for …` |
-| `MPLogs/` | Nach der Runde (`--scan-mplogs`) | Event-Liste der letzten Session |
-
-### Benachrichtigungen (`config.json`)
-
-| Option | Standard | Beschreibung |
-|--------|----------|--------------|
-| `secret_ending` | an | Secret-Ending-Events aus `data/secret_endings.json` |
-| `secret_ending_first_only` | an | Jeden Secret-Treffer nur einmal pro Session |
-| `achievement` | an | Steam-Achievements |
-| `game_end` | an | `==== GAME END! ====` |
-| `interest_lock` | an | Route-Lock (`INTEREST LOCK: …`) |
-| `plotline` | aus | Plotline-Hinweise |
-| `event_outcome` | aus | Jedes Event (kann spammy sein) |
-
-### Weniger Toasts im Menü
-
-- **`skip_history_on_start`** — alte Log-Zeilen beim Start ignorieren
-- **`only_notify_in_round`** — nur während der aktiven Schul-/Camp-Woche
-
----
-
-## Python — Overlay-Tipps
-
-1. **Stats** eintragen (optional kalibrieren für Live-Werte aus dem RAM).
-2. **Screenshot → Event:** wenn beide Antwort-Buttons sichtbar sind → OCR → Abgleich mit der Event-DB.
-3. **Dialog finden:** Stichwörter aus dem Dialog eintippen (nicht interne Event-Namen wie `DamienMatchingTattoos`).
-4. **★** = höchste Stat bei dir (meist die erfolgreiche Option bei MP1-Mechanik).
-
-OCR abschalten: `"overlay": { "dialog_ocr": false }` in `config.json`.
-
-OCR-Sprache: Englisch (`en`). Falls nötig: Windows → Sprache → Englisch (USA) → OCR-Komponente installieren.
-
-Datenbank MP1: ~430 Events in `data/events_db.json`.
-
----
-
-## Konfiguration
-
-`config.example.json` kopieren nach `config.json` (passiert automatisch beim ersten Start).
-
-```json
-{
-  "game": "Monster Prom",
-  "output_log_path": null,
-  "mplogs_path": null,
-  "poll_interval_seconds": 0.2,
-  "skip_history_on_start": true,
-  "only_notify_in_round": true,
-  "notifications": { "secret_ending": true }
-}
-```
-
-Pfade werden automatisch erkannt unter:
-
-- Log: `%LOCALAPPDATA%\..\LocalLow\Beautiful Glitch\<Spielname>\` (`output_log.txt` oder `Player.log`)
-- MPLogs: `Steam\steamapps\common\<Spielname>\MPLogs`
-
-Manuelle Pfade in `config.json` setzen, wenn Steam woanders installiert ist.
-
----
-
-## MPLogs nach einer Runde
-
-```powershell
-.\start.ps1 --scan-mplogs
-```
-
----
-
-## Autostart (optional)
-
-Windows Task Scheduler → bei Anmeldung → Programm: `python` → Argumente: `-m src.main` → Start in: Repo-Ordner.
-
----
-
-## Projektstruktur
+## Layout
 
 ```
 MonsterPromHelper/
-  README.md                 ← diese Datei (Python + Übersicht)
-  config.example.json
-  requirements.txt
-  start.bat / start.ps1     ← Log-Watcher
-  start_overlay.bat         ← Python-Overlay
-  src/                      ← Python-Quellcode
-  data/                     ← Event-DB Monster Prom 1
-  data-camp/                ← Event- + Drink-DB Monster Camp
-  data-mp4/                 ← Event- + Pregame-DB Monster Con
-  tools/                    ← Skripte zum DB-Build
-  bepinex-plugin/           ← BepInEx-Plugins (C#)
-    README.md               ← Installationsanleitung Plugins
+  README.md
+  start.bat / start.ps1 / start_overlay.bat   ← wrappers into python/
+  games/
+    monster-prom/     plugin, data, install-pack, build.ps1
+    monster-camp/
+    monster-con/
+  python/             optional log watcher + desktop overlay
+  tools/              scripts that rebuild event databases
 ```
 
 ---
 
-## Event-Daten & Secret Endings
+## Event data & secret endings
 
-| Spiel | Daten im Repo | Quelle |
-|-------|---------------|--------|
-| Monster Prom | `data/events_db.json`, `secret_endings.json` | [Steam Event Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2043551842) |
-| Monster Camp | `data-camp/` | [Community-Spreadsheet](https://docs.google.com/spreadsheets/d/1dvqS63ssINhneJGm9hi3V2tGTm5kF1utv1cl8cdtfJ0/edit) |
-| Monster Con | `data-mp4/` | [Steam Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3470379401), [Wiki Pregame](https://monsterprom.wiki.gg/wiki/Pre-Game_Preparation/Monster_Con) |
+| Game | Data | Source |
+|------|------|--------|
+| Monster Prom | `games/monster-prom/data/` | [Steam Event Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2043551842) |
+| Monster Camp | `games/monster-camp/data/` | [Community spreadsheet](https://docs.google.com/spreadsheets/d/1dvqS63ssINhneJGm9hi3V2tGTm5kF1utv1cl8cdtfJ0/edit) |
+| Monster Con | `games/monster-con/data/` | [Steam Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3470379401), [Wiki pregame](https://monsterprom.wiki.gg/wiki/Pre-Game_Preparation/Monster_Con) |
 
-Event-Namen im Log sind case-insensitive matchbar (`Coke1` / `coke2`).
-
-DBs neu bauen:
+Rebuild databases:
 
 ```powershell
-python tools/build_event_db.py      # MP1
-python tools/build_camp_db.py       # Camp (Internet)
-python tools/build_mp4_event_db.py  # MP4
+python tools/build_event_db.py         # MP1
+python tools/build_camp_db.py          # Camp (needs internet)
+python tools/build_mp4_event_db.py     # MP4
 python tools/build_mp4_pregame_wiki.py
 ```
 
 ---
 
-## Grenzen (Python)
+## Contributing
 
-- **Vor der Antwort-Wahl** steht der Event-Name oft noch nicht im Log — Overlay/OCR oder BepInEx sind zuverlässiger.
-- Automatischer RAM-Scan ist experimentell und standardmäßig eingeschränkt.
-- `output_log.txt` wird beim Spielstart oft zurückgesetzt — der Watcher springt automatisch neu an.
+Issues and pull requests: [github.com/Fussmatte111/MonsterPromHelper/issues](https://github.com/Fussmatte111/MonsterPromHelper/issues)
 
-Für zuverlässige **Live-Empfehlungen im Dialog** → **BepInEx-Plugins** nutzen.
-
----
-
-## Fehlerbehebung (Python)
-
-| Problem | Lösung |
-|---------|--------|
-| Log nicht gefunden | Spiel einmal starten; `game` in `config.json` prüfen |
-| Keine Toasts | Windows-Benachrichtigungen erlauben; `notifications` in Config prüfen |
-| Overlay/OCR hängt | Overlay neu starten; beide Antworten müssen sichtbar sein |
-| Spam im Hauptmenü | `only_notify_in_round: true`, `skip_history_on_start: true` |
-
-BepInEx-Probleme → [`bepinex-plugin/README.md`](bepinex-plugin/README.md#fehlerbehebung)
-
----
-
-## Mitwirken
-
-Issues und Pull Requests: [github.com/Fussmatte111/MonsterPromHelper/issues](https://github.com/Fussmatte111/MonsterPromHelper/issues)
-
----
-
-## Danksagungen
+## Credits
 
 - Beautiful Glitch — *Monster Prom*
-- Community-Guides, [Monster Prom Wiki](https://monsterprom.wiki.gg/), Spreadsheet-Autoren
+- Community guides, [Monster Prom Wiki](https://monsterprom.wiki.gg/), spreadsheet authors
 - [BepInEx](https://github.com/BepInEx/BepInEx)
